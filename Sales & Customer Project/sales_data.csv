@@ -1,0 +1,1051 @@
+Date,Region,Product Category,Product Name,Units Sold,Revenue,Customer Age,Customer Gender,Customer Satisfaction,Product Cost,Profit
+26-06-2022,West,Electronics,Headphones,2,303.77,50,Male,5,258.87,44.9
+19-06-2023,West,Clothing,Sweater,20,6013.09,43,Male,1,4456.69,1556.4
+01-03-2022,East,Books,Sci-Fi,22,6624.07,62,Male,5,3322.6,3301.47
+25-02-2023,Central,Clothing,Dress,23,5070.94,33,Female,2,2206.17,2864.77
+21-04-2022,East,Home Goods,Rug,2,636.66,47,Male,2,292.81,343.85
+16-05-2023,West,Clothing,Sweater,28,1580.15,69,Female,3,1578.07,2.08
+22-03-2022,North,Books,Mystery,33,15209.62,20,Male,3,5544.03,9665.59
+23-05-2022,East,Books,Sci-Fi,49,13193.63,70,Female,2,11734.47,1459.16
+02-01-2023,Central,Clothing,Sweater,2,110.13,40,Male,5,249.36,-139.23
+02-12-2023,Central,Electronics,Headphones,45,6864.39,54,Female,5,896.22,5968.17
+08-06-2022,North,Food,Grains,4,1569.33,27,Male,1,603.4,965.93
+09-05-2023,East,Books,Non-Fiction,25,8359.64,21,Female,3,4354.87,4004.77
+12-05-2023,Central,Electronics,Laptop,38,14714.79,39,Female,4,5831.62,8883.17
+17-09-2023,West,Clothing,Jeans,3,1461.73,23,Female,2,359.07,1102.66
+10-03-2023,North,Food,Produce,7,1329.49,27,Male,3,1720.14,-390.65
+31-12-2023,South,Home Goods,Chair,43,21247.65,70,Female,4,8307.14,12940.51
+29-04-2023,North,Home Goods,Table,12,4456.75,46,Male,1,106.89,4349.86
+06-12-2023,Central,Electronics,Smartphone,40,16676.78,49,Female,4,4955.55,11721.23
+08-09-2022,West,Home Goods,Chair,3,402.01,20,Male,1,115.82,286.19
+29-03-2023,North,Books,Mystery,29,13263.6,69,Female,3,1758.14,11505.46
+03-05-2022,North,Food,Produce,47,17553.77,28,Female,2,8127.15,9426.62
+29-06-2023,West,Books,Mystery,11,4062.79,26,Male,5,1047.74,3015.05
+01-06-2023,Central,Clothing,Sweater,29,6341.06,51,Female,5,1671.65,4669.41
+05-10-2022,Central,Clothing,Dress,24,4856.27,34,Female,4,4002.4,853.87
+22-10-2022,East,Food,Grains,37,1105.44,63,Male,2,6360.58,-5255.14
+03-04-2022,West,Food,Grains,47,16956.19,49,Male,3,3435.81,13520.38
+06-07-2022,East,Electronics,Tablet,30,2172.36,58,Female,3,3869.73,-1697.37
+07-12-2023,East,Home Goods,Lamp,5,2151.14,63,Male,4,381.93,1769.21
+10-08-2022,South,Books,Fiction,28,13374.57,42,Female,2,5060.17,8314.4
+13-07-2023,West,Electronics,Tablet,29,3195.52,53,Female,1,2720.56,474.96
+11-05-2023,East,Books,Sci-Fi,18,4798.42,44,Female,1,3494.61,1303.81
+07-10-2023,Central,Clothing,Dress,25,7018.52,24,Female,1,746.43,6272.09
+03-05-2023,North,Books,Sci-Fi,6,2960.56,23,Female,5,1428.96,1531.6
+16-12-2023,North,Electronics,Headphones,42,2678.87,51,Female,1,2538.6,140.27
+10-08-2022,South,Food,Beverages,17,5467.02,40,Female,5,2807.67,2659.35
+29-08-2022,Central,Home Goods,Table,8,1473.79,22,Female,3,1345.72,128.07
+14-01-2023,West,Food,Snacks,50,5963.14,58,Female,3,8750.08,-2786.94
+26-07-2023,South,Food,Grains,35,16212.42,37,Male,5,1293.7,14918.72
+21-07-2022,East,Clothing,Jeans,46,3452.74,70,Male,1,2568.43,884.31
+20-09-2022,Central,Electronics,Smartphone,41,9765.86,49,Female,1,4640.73,5125.13
+01-09-2022,West,Books,Non-Fiction,12,254.37,58,Male,4,2704.17,-2449.8
+28-11-2023,North,Home Goods,Lamp,13,823.88,65,Male,5,1158.38,-334.5
+02-07-2022,South,Electronics,Laptop,21,8375.6,47,Female,4,2127.09,6248.51
+09-06-2022,West,Food,Snacks,27,6601.03,31,Male,1,6107.2,493.83
+29-07-2022,South,Home Goods,Chair,11,2383.04,56,Male,2,773.3,1609.74
+19-09-2022,North,Clothing,Dress,30,4321.34,42,Female,1,4530.51,-209.17
+04-08-2023,Central,Home Goods,Rug,17,2877.76,50,Male,1,1652.86,1224.9
+04-08-2023,North,Food,Beverages,18,4279.21,30,Male,3,2423.65,1855.56
+06-02-2023,South,Food,Beverages,18,2685.04,43,Female,4,1326.23,1358.81
+21-03-2023,South,Home Goods,Chair,9,3552.51,46,Female,5,2233.06,1319.45
+18-10-2023,North,Electronics,Tablet,39,17358.37,38,Male,5,3162.14,14196.23
+15-08-2023,West,Electronics,Headphones,2,882.83,29,Female,3,64.96,817.87
+13-03-2022,North,Clothing,Dress,39,18468.5,39,Male,5,7027.61,11440.89
+12-06-2022,North,Books,Fiction,28,13953.83,59,Female,1,4942.64,9011.19
+22-12-2023,East,Books,Non-Fiction,11,2541.92,61,Female,3,1282.07,1259.85
+27-09-2022,North,Food,Produce,1,372.52,66,Male,1,156.54,215.98
+01-06-2023,South,Books,Sci-Fi,33,9687.4,28,Female,4,4854.75,4832.65
+30-07-2022,East,Food,Produce,48,4457.95,38,Female,5,6541.78,-2083.83
+15-01-2023,East,Books,Non-Fiction,40,1296.2,62,Female,3,246.28,1049.92
+19-09-2022,West,Home Goods,Chair,48,21116.34,63,Male,4,7595.67,13520.67
+26-09-2022,Central,Electronics,Headphones,31,5236.74,53,Female,5,7402.97,-2166.23
+27-02-2023,Central,Food,Beverages,18,4295.16,19,Male,2,3938.62,356.54
+26-11-2023,South,Clothing,Dress,38,2603.24,53,Female,4,8658.38,-6055.14
+02-09-2023,West,Clothing,Dress,38,11852.59,26,Male,3,7891.88,3960.71
+16-04-2022,West,Food,Grains,20,8416.1,53,Male,3,2279.83,6136.27
+02-09-2023,Central,Home Goods,Chair,39,3154.0,27,Male,1,5257.31,-2103.31
+10-06-2022,East,Books,Mystery,14,5683.65,38,Male,1,1320.14,4363.51
+07-08-2022,North,Books,Sci-Fi,7,1629.56,46,Female,1,267.11,1362.45
+13-08-2023,North,Home Goods,Rug,33,3616.95,31,Male,5,1191.25,2425.7
+18-05-2022,East,Books,Sci-Fi,35,5038.96,31,Male,4,8240.83,-3201.87
+29-04-2023,South,Food,Produce,7,1820.46,60,Male,5,1345.23,475.23
+05-11-2022,East,Books,Sci-Fi,2,302.02,26,Male,3,456.57,-154.55
+30-07-2023,West,Home Goods,Rug,29,4863.64,23,Female,5,3678.13,1185.51
+02-10-2022,East,Books,Sci-Fi,8,3297.56,27,Female,5,1010.0,2287.56
+04-07-2023,North,Food,Snacks,4,1947.0,29,Male,4,993.24,953.76
+09-04-2023,East,Books,Non-Fiction,33,14895.16,43,Female,1,4642.05,10253.11
+25-12-2023,South,Clothing,Jeans,36,3347.8,32,Male,5,5776.16,-2428.36
+08-08-2022,North,Home Goods,Rug,33,12722.38,61,Male,5,2354.31,10368.07
+09-03-2022,West,Clothing,Sweater,22,1700.5,37,Male,1,5308.2,-3607.7
+16-04-2023,South,Home Goods,Chair,45,2852.92,58,Male,1,10089.08,-7236.16
+09-07-2022,North,Electronics,Smartphone,13,5228.19,38,Male,3,2042.42,3185.77
+03-05-2023,Central,Books,Sci-Fi,25,4499.3,34,Female,5,4048.89,450.41
+03-10-2023,East,Food,Beverages,35,4340.41,63,Female,1,1082.14,3258.27
+27-05-2022,North,Home Goods,Rug,11,2776.21,50,Male,4,2562.03,214.18
+19-03-2023,East,Food,Grains,36,4676.42,47,Male,1,8295.56,-3619.14
+28-04-2022,South,Electronics,Smartphone,13,6035.57,67,Female,4,103.42,5932.15
+01-07-2022,East,Clothing,Sweater,26,4967.71,31,Male,1,572.62,4395.09
+17-05-2023,West,Food,Snacks,30,664.14,64,Male,4,6412.26,-5748.12
+29-08-2022,West,Food,Grains,8,2078.04,58,Male,3,1412.83,665.21
+11-04-2023,East,Clothing,Sweater,32,13017.37,60,Male,2,4166.39,8850.98
+15-10-2022,North,Clothing,Sweater,40,11185.72,51,Female,1,9967.66,1218.06
+17-07-2023,South,Food,Grains,42,12086.68,23,Female,2,1732.1,10354.58
+29-10-2022,North,Electronics,Tablet,35,4546.15,23,Male,5,6783.6,-2237.45
+04-02-2022,North,Books,Mystery,45,2193.43,49,Male,4,7785.38,-5591.95
+16-09-2022,East,Food,Produce,16,7218.59,51,Male,3,2278.4,4940.19
+12-07-2023,North,Electronics,Tablet,41,14038.37,47,Male,3,303.29,13735.08
+24-07-2022,East,Books,Mystery,5,492.57,43,Female,1,765.64,-273.07
+25-12-2023,South,Home Goods,Table,10,2571.37,63,Female,3,1574.32,997.05
+30-10-2022,North,Food,Produce,46,14916.13,66,Male,2,7054.92,7861.21
+02-04-2023,East,Books,Non-Fiction,3,1266.51,56,Male,5,743.74,522.77
+27-10-2022,East,Food,Grains,18,5602.64,37,Female,5,2537.84,3064.8
+11-09-2022,West,Food,Beverages,15,2818.14,65,Female,5,1975.24,842.9
+02-09-2023,North,Clothing,Sweater,9,1668.03,21,Female,4,1000.61,667.42
+25-12-2022,North,Clothing,T-Shirt,3,1205.75,36,Male,1,294.71,911.04
+02-01-2023,North,Home Goods,Chair,1,90.8,23,Female,3,160.23,-69.43
+24-11-2023,West,Home Goods,Rug,40,14151.28,18,Male,1,3635.8,10515.48
+24-05-2022,North,Home Goods,Chair,46,2921.32,31,Male,3,11363.45,-8442.13
+23-11-2023,West,Electronics,Headphones,19,7240.05,32,Male,5,111.12,7128.93
+17-06-2023,East,Clothing,Sweater,42,8301.52,49,Male,1,2013.62,6287.9
+11-10-2022,Central,Books,Fiction,36,7159.67,62,Female,1,1057.54,6102.13
+29-09-2022,East,Food,Beverages,5,1174.32,29,Male,3,1236.59,-62.27
+16-05-2023,Central,Food,Beverages,36,1759.75,20,Male,5,7261.15,-5501.4
+06-09-2022,Central,Electronics,Laptop,31,11188.18,70,Female,4,646.59,10541.59
+02-08-2022,East,Clothing,T-Shirt,20,5118.13,34,Male,3,497.02,4621.11
+06-12-2023,Central,Books,Non-Fiction,5,222.51,69,Male,5,881.61,-659.1
+17-11-2023,Central,Food,Beverages,31,5395.07,45,Female,4,6157.3,-762.23
+11-06-2023,South,Clothing,T-Shirt,3,630.93,54,Male,3,364.29,266.64
+04-09-2022,North,Electronics,Headphones,12,3457.27,42,Male,2,1078.15,2379.12
+09-10-2022,North,Electronics,Headphones,8,2376.31,49,Female,3,141.16,2235.15
+16-04-2022,East,Food,Produce,15,5383.81,61,Male,3,2454.92,2928.89
+28-08-2022,West,Clothing,Sweater,19,4893.25,19,Male,4,875.11,4018.14
+21-11-2022,East,Food,Grains,1,128.44,55,Male,1,8.82,119.62
+23-12-2022,South,Electronics,Laptop,19,4564.18,65,Female,3,1508.36,3055.82
+27-08-2022,Central,Food,Produce,32,13086.66,47,Female,2,7509.32,5577.34
+12-07-2023,East,Food,Beverages,32,12014.19,48,Male,3,3569.5,8444.69
+08-08-2022,North,Food,Grains,50,22622.79,69,Male,4,1973.2,20649.59
+25-05-2022,North,Food,Produce,2,103.48,51,Female,5,434.7,-331.22
+14-04-2022,East,Books,Sci-Fi,39,4950.19,30,Male,3,3048.14,1902.05
+06-08-2023,Central,Home Goods,Lamp,31,4975.31,43,Female,2,214.27,4761.04
+24-01-2023,North,Electronics,Headphones,15,3442.4,30,Female,3,3499.22,-56.82
+30-11-2023,North,Food,Snacks,44,7290.26,54,Female,1,6233.44,1056.82
+15-06-2022,North,Books,Sci-Fi,8,3906.7,43,Male,2,550.47,3356.23
+25-02-2023,East,Electronics,Headphones,38,12938.7,28,Male,5,9159.62,3779.08
+17-07-2022,Central,Books,Mystery,15,2644.13,36,Female,5,1288.96,1355.17
+03-08-2022,Central,Clothing,Dress,5,1947.37,55,Female,5,44.47,1902.9
+15-03-2023,North,Home Goods,Lamp,17,3153.33,30,Male,1,859.15,2294.18
+31-05-2022,North,Clothing,Dress,12,5539.81,19,Male,1,2253.59,3286.22
+13-04-2023,East,Electronics,Laptop,37,834.5,54,Male,4,3459.38,-2624.88
+17-02-2023,North,Food,Produce,13,986.36,25,Male,2,2595.37,-1609.01
+19-07-2022,East,Clothing,Jeans,8,390.21,34,Female,2,580.39,-190.18
+02-11-2023,South,Clothing,Sweater,44,20220.85,66,Female,2,9939.94,10280.91
+13-09-2023,South,Clothing,Sweater,40,1592.7,31,Female,2,2612.94,-1020.24
+24-03-2022,South,Electronics,Smartphone,4,1414.97,59,Female,2,962.52,452.45
+03-03-2023,West,Clothing,Jeans,5,1348.9,40,Male,4,1101.76,247.14
+27-10-2023,North,Electronics,Laptop,12,5094.12,22,Female,5,277.26,4816.86
+10-03-2023,North,Books,Mystery,45,8712.65,19,Male,5,9405.62,-692.97
+31-10-2023,West,Clothing,Jeans,6,2378.25,30,Female,4,1362.33,1015.92
+19-08-2022,South,Clothing,Jeans,44,14703.62,42,Male,2,7756.94,6946.68
+05-08-2023,Central,Electronics,Headphones,48,5125.64,24,Male,1,10260.82,-5135.18
+08-02-2022,East,Electronics,Smartphone,40,7729.4,26,Female,4,6743.06,986.34
+23-05-2022,East,Clothing,T-Shirt,28,1706.27,62,Female,5,1058.06,648.21
+07-02-2023,West,Electronics,Headphones,42,12100.39,57,Female,1,8635.59,3464.8
+19-07-2022,West,Food,Beverages,41,20444.23,67,Female,5,2755.95,17688.28
+28-09-2023,East,Home Goods,Lamp,25,6936.27,67,Male,1,5527.45,1408.82
+29-06-2023,West,Books,Sci-Fi,49,7163.09,29,Female,5,7180.57,-17.48
+19-08-2023,North,Books,Sci-Fi,29,12517.51,67,Female,1,3278.84,9238.67
+22-01-2022,North,Clothing,Dress,1,210.4,49,Female,2,84.42,125.98
+02-08-2023,East,Books,Fiction,18,8827.44,62,Female,1,4082.79,4744.65
+27-03-2023,North,Food,Beverages,9,1034.9,31,Female,4,1601.21,-566.31
+03-06-2022,East,Home Goods,Table,17,1750.19,64,Male,2,3583.79,-1833.6
+29-03-2023,North,Electronics,Smartphone,23,628.31,36,Male,3,1503.9,-875.59
+23-05-2023,South,Books,Fiction,14,2528.84,22,Male,5,1402.59,1126.25
+06-05-2022,Central,Home Goods,Table,27,11992.06,18,Female,2,2460.9,9531.16
+24-12-2022,North,Home Goods,Lamp,35,1388.57,63,Female,4,3776.82,-2388.25
+21-05-2023,West,Books,Mystery,47,11682.36,33,Female,5,8465.88,3216.48
+14-07-2023,Central,Clothing,T-Shirt,6,1599.61,21,Male,2,1282.94,316.67
+28-06-2022,West,Food,Snacks,49,21137.9,30,Male,1,11796.37,9341.53
+03-10-2023,East,Food,Beverages,29,5716.47,37,Male,2,1284.39,4432.08
+02-09-2022,North,Clothing,Dress,41,15766.06,43,Male,3,5469.54,10296.52
+15-05-2023,Central,Books,Mystery,24,6922.87,37,Female,3,5735.8,1187.07
+11-02-2023,East,Electronics,Laptop,21,9381.77,26,Male,1,4391.62,4990.15
+11-09-2022,South,Home Goods,Lamp,45,14630.71,52,Female,4,6947.72,7682.99
+23-10-2022,South,Clothing,Jeans,21,7663.47,19,Female,2,3975.78,3687.69
+28-02-2023,West,Home Goods,Lamp,9,4295.24,70,Male,3,53.63,4241.61
+14-09-2023,North,Books,Sci-Fi,2,601.9,65,Male,5,272.72,329.18
+16-12-2022,West,Books,Fiction,36,10018.43,36,Male,2,1027.86,8990.57
+29-06-2022,South,Electronics,Laptop,31,10685.43,18,Female,3,3752.13,6933.3
+31-10-2023,South,Home Goods,Chair,14,5724.09,66,Female,3,2954.53,2769.56
+05-06-2023,East,Food,Beverages,22,979.36,30,Female,1,1678.26,-698.9
+03-08-2023,East,Clothing,Sweater,2,656.47,69,Male,3,16.43,640.04
+06-12-2022,West,Electronics,Headphones,46,743.49,68,Male,3,4154.44,-3410.95
+19-12-2023,North,Electronics,Headphones,10,1019.29,47,Male,3,1220.53,-201.24
+25-07-2022,North,Electronics,Headphones,16,7097.62,39,Male,3,2961.31,4136.31
+07-12-2023,West,Books,Fiction,17,1861.94,67,Male,1,1242.19,619.75
+31-05-2023,West,Clothing,Dress,10,1722.51,51,Female,3,1146.91,575.6
+02-04-2022,South,Food,Beverages,34,16648.83,30,Male,3,2046.46,14602.37
+18-10-2022,East,Books,Fiction,49,22291.82,70,Female,1,2021.93,20269.89
+20-11-2022,North,Food,Beverages,18,8629.34,23,Male,5,1099.04,7530.3
+29-12-2023,Central,Books,Sci-Fi,29,2191.92,51,Male,2,5751.89,-3559.97
+28-03-2022,North,Clothing,T-Shirt,46,20885.71,27,Male,4,5414.01,15471.7
+31-05-2022,East,Home Goods,Rug,6,809.16,66,Male,2,1005.3,-196.14
+31-12-2023,East,Books,Sci-Fi,41,4988.41,34,Female,3,10213.41,-5225.0
+23-07-2022,North,Books,Mystery,42,3048.02,37,Female,5,6765.77,-3717.75
+30-06-2022,North,Food,Produce,34,10878.06,70,Female,3,3436.73,7441.33
+27-12-2022,Central,Books,Fiction,28,1785.75,69,Male,2,1238.36,547.39
+07-09-2022,East,Electronics,Tablet,5,1811.92,22,Male,3,607.48,1204.44
+05-08-2022,South,Clothing,Dress,42,894.18,54,Male,5,7824.87,-6930.69
+13-09-2022,East,Books,Mystery,44,13375.67,49,Male,3,6672.59,6703.08
+09-05-2023,East,Books,Sci-Fi,44,10746.96,19,Female,4,2403.01,8343.95
+07-04-2022,West,Home Goods,Rug,32,6784.15,29,Female,5,7112.47,-328.32
+08-09-2023,North,Books,Sci-Fi,7,594.35,48,Female,3,482.67,111.68
+04-06-2023,East,Electronics,Smartphone,2,641.8,19,Male,2,404.43,237.37
+03-05-2023,North,Home Goods,Lamp,47,4781.95,39,Female,4,5937.86,-1155.91
+23-06-2022,East,Home Goods,Chair,3,125.0,62,Female,1,239.13,-114.13
+02-10-2022,South,Books,Fiction,13,5309.43,59,Female,5,812.92,4496.51
+09-03-2022,East,Clothing,Dress,39,1107.29,38,Male,5,2614.89,-1507.6
+22-07-2022,South,Clothing,Dress,40,17757.37,37,Male,1,5851.26,11906.11
+18-02-2023,West,Clothing,Jeans,29,11259.88,51,Female,4,3062.55,8197.33
+12-11-2022,South,Electronics,Tablet,21,1672.36,21,Male,1,636.59,1035.77
+10-03-2023,Central,Electronics,Laptop,28,1232.2,46,Female,4,4111.75,-2879.55
+26-01-2023,North,Clothing,Sweater,6,2774.43,66,Female,4,1148.73,1625.7
+18-06-2022,East,Clothing,Dress,6,2318.21,20,Male,3,380.15,1938.06
+08-04-2022,North,Books,Fiction,27,10981.95,63,Male,3,5830.26,5151.69
+09-10-2023,North,Electronics,Smartphone,2,470.39,39,Female,4,126.94,343.45
+23-08-2022,West,Food,Grains,30,3144.65,59,Male,5,6967.12,-3822.47
+13-09-2023,North,Books,Fiction,19,5458.09,34,Male,3,1862.19,3595.9
+25-10-2023,North,Home Goods,Table,30,2163.61,23,Male,2,1059.24,1104.37
+27-05-2022,North,Food,Grains,14,4503.17,44,Male,2,155.46,4347.71
+22-10-2022,East,Food,Beverages,7,445.83,70,Female,1,769.91,-324.08
+26-04-2023,South,Clothing,Dress,9,419.81,42,Female,2,1804.95,-1385.14
+04-03-2023,East,Books,Mystery,30,13219.18,20,Female,3,3897.44,9321.74
+25-07-2022,North,Electronics,Laptop,13,1525.73,60,Male,2,2334.17,-808.44
+27-05-2023,East,Food,Produce,8,1197.09,35,Female,4,900.95,296.14
+17-11-2023,South,Home Goods,Chair,19,4874.17,26,Male,2,1630.91,3243.26
+26-12-2022,West,Home Goods,Table,40,19120.07,68,Female,2,7553.42,11566.65
+11-10-2022,Central,Books,Fiction,30,2124.25,18,Male,3,5387.46,-3263.21
+04-01-2022,West,Home Goods,Lamp,34,15245.3,27,Female,1,324.27,14921.03
+16-02-2023,North,Food,Grains,17,8468.09,65,Female,5,1595.71,6872.38
+21-09-2022,West,Electronics,Laptop,20,3278.07,53,Female,5,2068.98,1209.09
+09-08-2023,South,Clothing,Dress,32,13936.06,19,Female,2,6153.07,7782.99
+15-07-2022,South,Electronics,Smartphone,23,7548.04,45,Male,1,145.09,7402.95
+01-06-2022,North,Food,Snacks,33,5052.33,56,Male,1,3651.58,1400.75
+30-04-2023,North,Electronics,Laptop,7,2911.7,40,Male,2,1605.03,1306.67
+03-12-2022,West,Electronics,Laptop,36,15766.43,30,Male,3,6354.08,9412.35
+24-04-2023,East,Food,Grains,34,13641.95,31,Female,5,1255.01,12386.94
+14-03-2022,West,Clothing,T-Shirt,48,5674.09,24,Female,3,462.44,5211.65
+05-07-2022,North,Home Goods,Rug,30,13046.77,66,Female,5,5820.05,7226.72
+12-04-2022,South,Clothing,Jeans,41,8756.34,22,Female,3,3955.92,4800.42
+25-05-2023,South,Clothing,T-Shirt,4,647.48,67,Male,1,629.32,18.16
+02-12-2023,North,Food,Snacks,27,346.9,52,Male,3,331.07,15.83
+15-01-2022,South,Food,Beverages,17,8491.59,22,Male,3,127.64,8363.95
+22-01-2023,West,Food,Grains,8,747.33,62,Male,2,772.1,-24.77
+12-06-2022,East,Food,Snacks,26,8862.46,29,Male,4,3538.83,5323.63
+24-10-2022,West,Books,Mystery,15,4314.74,50,Female,1,1877.12,2437.62
+30-07-2023,South,Food,Snacks,49,13083.23,30,Female,5,10889.27,2193.96
+16-12-2022,North,Books,Mystery,6,2267.37,49,Female,4,442.44,1824.93
+12-11-2023,East,Home Goods,Table,33,10853.44,28,Male,1,2488.0,8365.44
+13-10-2022,Central,Food,Beverages,29,8416.02,27,Female,5,425.58,7990.44
+23-04-2023,North,Books,Fiction,26,2899.92,35,Male,1,5579.1,-2679.18
+10-07-2023,West,Books,Mystery,15,1229.82,49,Female,1,3745.89,-2516.07
+23-06-2023,South,Electronics,Tablet,17,2939.89,55,Female,5,2282.96,656.93
+03-01-2023,East,Books,Mystery,50,2569.27,53,Female,4,2016.47,552.8
+04-08-2022,North,Clothing,Dress,47,17878.88,64,Female,4,4121.26,13757.62
+06-12-2023,South,Clothing,Jeans,3,303.24,52,Female,5,594.44,-291.2
+01-03-2023,Central,Books,Non-Fiction,39,14894.34,30,Male,1,4325.66,10568.68
+09-07-2022,West,Food,Grains,36,1043.08,47,Female,3,5500.54,-4457.46
+26-06-2022,North,Home Goods,Rug,2,850.26,35,Female,3,140.12,710.14
+12-08-2022,East,Clothing,Sweater,37,15779.46,67,Female,3,7818.26,7961.2
+23-03-2022,East,Clothing,T-Shirt,13,1460.26,23,Female,3,1134.87,325.39
+26-10-2022,Central,Food,Produce,43,3927.93,63,Female,5,7391.29,-3463.36
+15-08-2022,South,Electronics,Laptop,49,4671.83,27,Male,4,4134.78,537.05
+11-06-2023,North,Food,Grains,9,3329.25,62,Male,5,1289.75,2039.5
+06-05-2023,East,Clothing,T-Shirt,7,554.71,18,Male,5,1671.55,-1116.84
+28-08-2022,North,Food,Beverages,10,2086.4,55,Female,3,909.9,1176.5
+17-07-2023,South,Electronics,Tablet,21,1878.05,32,Female,5,1726.37,151.68
+27-06-2023,South,Books,Fiction,14,6674.26,52,Female,5,1188.46,5485.8
+25-11-2022,Central,Food,Beverages,48,21935.28,59,Female,2,3556.47,18378.81
+06-04-2022,Central,Books,Fiction,24,2357.99,63,Male,5,5622.46,-3264.47
+23-05-2023,Central,Food,Snacks,37,13226.0,52,Male,4,1490.38,11735.62
+12-12-2023,Central,Food,Snacks,38,3645.81,58,Female,2,8162.51,-4516.7
+24-09-2023,West,Home Goods,Rug,26,5334.75,62,Female,4,4418.22,916.53
+06-04-2023,South,Clothing,Jeans,44,11811.55,30,Female,1,9947.85,1863.7
+10-01-2023,North,Clothing,Dress,31,8585.89,30,Male,5,6986.6,1599.29
+03-10-2022,East,Books,Mystery,35,8023.19,32,Female,5,7966.92,56.27
+07-04-2023,Central,Home Goods,Table,45,7222.84,19,Male,1,7715.95,-493.11
+11-07-2023,South,Electronics,Laptop,23,1904.43,28,Male,5,2690.51,-786.08
+30-06-2022,South,Books,Non-Fiction,44,19216.0,47,Male,5,8936.42,10279.58
+18-07-2022,North,Food,Snacks,50,19053.34,34,Female,2,9660.64,9392.7
+07-08-2023,South,Books,Sci-Fi,2,418.45,57,Female,3,335.37,83.08
+09-09-2022,North,Food,Snacks,18,7786.8,34,Female,2,2057.9,5728.9
+30-10-2023,Central,Home Goods,Lamp,9,4068.24,64,Female,4,1709.81,2358.43
+01-08-2022,Central,Home Goods,Table,16,2730.93,64,Female,2,3724.89,-993.96
+08-07-2022,West,Home Goods,Rug,24,9168.01,63,Female,1,1891.41,7276.6
+08-09-2022,North,Books,Mystery,26,3155.34,27,Female,1,636.74,2518.6
+13-11-2023,West,Books,Mystery,18,4481.79,28,Female,5,4427.7,54.09
+04-04-2023,North,Food,Produce,18,1516.23,40,Male,4,3548.05,-2031.82
+17-04-2023,South,Books,Sci-Fi,11,1031.49,61,Female,3,2022.68,-991.19
+12-06-2022,South,Clothing,Dress,20,9836.47,44,Female,5,4058.98,5777.49
+18-08-2023,South,Books,Mystery,14,5020.73,54,Female,3,2851.44,2169.29
+04-10-2022,Central,Food,Beverages,1,197.11,18,Male,2,145.14,51.97
+11-09-2023,Central,Clothing,Jeans,33,13850.0,47,Female,4,3825.93,10024.07
+21-12-2022,West,Food,Beverages,26,2702.1,24,Female,3,222.85,2479.25
+05-12-2023,Central,Home Goods,Chair,22,9598.61,41,Male,5,2074.9,7523.71
+01-09-2022,Central,Clothing,Jeans,32,12688.15,60,Female,5,1293.79,11394.36
+29-04-2022,North,Clothing,Sweater,44,9189.91,42,Male,5,9333.82,-143.91
+11-12-2023,North,Home Goods,Rug,6,2720.03,18,Male,4,1430.9,1289.13
+13-11-2023,West,Clothing,Jeans,19,8568.5,25,Male,1,4351.7,4216.8
+16-05-2022,East,Food,Beverages,21,523.56,25,Female,2,1471.08,-947.52
+01-10-2022,East,Books,Sci-Fi,3,1170.3,44,Male,2,352.35,817.95
+26-07-2022,South,Home Goods,Rug,19,1497.51,22,Female,1,1168.73,328.78
+20-02-2023,East,Electronics,Headphones,19,8247.3,68,Female,4,3156.46,5090.84
+13-11-2022,Central,Home Goods,Lamp,3,95.71,38,Female,2,339.72,-244.01
+08-06-2022,Central,Food,Grains,40,15585.86,32,Female,4,6033.93,9551.93
+17-02-2023,South,Books,Mystery,32,8007.5,58,Male,2,2102.26,5905.24
+18-03-2023,North,Food,Grains,31,11394.72,62,Male,4,5535.31,5859.41
+07-07-2022,Central,Books,Sci-Fi,43,21074.83,55,Male,2,8337.69,12737.14
+24-07-2022,Central,Food,Produce,5,1964.61,43,Female,1,857.05,1107.56
+10-04-2023,North,Food,Grains,45,15158.99,24,Male,1,1994.26,13164.73
+03-08-2022,South,Clothing,Sweater,16,5605.58,52,Male,3,3507.71,2097.87
+19-10-2023,South,Electronics,Smartphone,29,2392.39,47,Male,2,4809.43,-2417.04
+30-06-2022,North,Books,Mystery,32,8234.39,48,Male,1,7179.85,1054.54
+11-01-2023,East,Books,Sci-Fi,8,2810.17,36,Male,5,1961.92,848.25
+19-06-2023,Central,Books,Sci-Fi,2,786.95,45,Male,5,210.96,575.99
+26-11-2023,West,Clothing,Sweater,41,18261.68,40,Male,1,8890.18,9371.5
+11-10-2022,East,Food,Produce,2,331.27,61,Male,2,90.12,241.15
+25-02-2022,North,Food,Snacks,29,920.67,36,Female,4,5162.49,-4241.82
+13-01-2022,Central,Books,Mystery,50,9307.27,21,Female,3,8795.0,512.27
+18-03-2022,Central,Home Goods,Rug,43,18697.21,45,Female,2,9457.81,9239.4
+27-08-2022,West,Home Goods,Rug,31,10409.33,55,Female,3,3474.81,6934.52
+05-01-2022,East,Books,Sci-Fi,17,4999.56,66,Male,2,814.81,4184.75
+16-05-2022,South,Home Goods,Lamp,28,7772.9,57,Female,2,1287.13,6485.77
+22-04-2023,North,Clothing,Dress,36,14841.19,36,Male,4,8090.37,6750.82
+25-11-2023,North,Food,Snacks,44,18310.85,67,Male,2,10181.41,8129.44
+19-01-2023,South,Clothing,Dress,16,6611.75,53,Male,2,1434.51,5177.24
+01-11-2023,North,Clothing,T-Shirt,47,16896.38,22,Female,1,5733.82,11162.56
+16-04-2022,North,Electronics,Tablet,18,5838.88,38,Female,5,1458.3,4380.58
+03-12-2022,Central,Food,Beverages,38,1939.17,54,Female,5,5106.04,-3166.87
+17-12-2023,North,Books,Fiction,22,6154.39,44,Female,1,711.8,5442.59
+31-12-2022,East,Food,Grains,18,8346.75,58,Female,5,2613.81,5732.94
+28-02-2023,North,Electronics,Headphones,3,810.1,22,Male,2,254.3,555.8
+18-03-2023,West,Clothing,T-Shirt,26,9457.94,53,Male,4,3680.79,5777.15
+06-05-2023,Central,Food,Snacks,50,12805.76,25,Female,1,1234.13,11571.63
+06-02-2022,North,Home Goods,Chair,1,62.4,31,Female,4,106.01,-43.61
+22-10-2023,East,Clothing,Jeans,21,6083.9,61,Male,1,1731.11,4352.79
+11-05-2022,North,Clothing,T-Shirt,8,2228.06,69,Male,1,1574.39,653.67
+03-01-2022,East,Home Goods,Lamp,36,14155.02,59,Female,5,6161.55,7993.47
+20-07-2023,South,Home Goods,Rug,46,7071.32,24,Female,1,3200.53,3870.79
+05-01-2023,West,Home Goods,Table,48,6614.07,27,Male,4,2329.04,4285.03
+23-05-2023,Central,Clothing,Sweater,38,531.97,59,Male,5,2607.6,-2075.63
+26-11-2022,East,Food,Produce,14,3819.25,63,Male,4,1230.56,2588.69
+09-04-2022,South,Electronics,Headphones,31,6545.6,49,Male,2,1573.92,4971.68
+15-11-2022,Central,Electronics,Laptop,48,21547.26,19,Female,5,9876.16,11671.1
+26-10-2022,North,Clothing,Sweater,3,179.93,51,Female,1,38.52,141.41
+04-08-2023,West,Electronics,Smartphone,17,2968.27,38,Female,1,1310.78,1657.49
+06-11-2023,Central,Food,Beverages,17,5371.71,27,Male,3,3484.51,1887.2
+28-08-2023,North,Clothing,Dress,47,17697.17,22,Female,5,628.8,17068.37
+24-10-2022,North,Clothing,Sweater,36,12910.8,55,Male,3,5841.7,7069.1
+06-10-2022,Central,Books,Fiction,10,696.24,33,Male,5,1355.39,-659.15
+29-09-2023,Central,Books,Non-Fiction,2,412.42,51,Male,3,268.42,144.0
+10-07-2022,North,Food,Beverages,12,5793.04,36,Male,2,1949.83,3843.21
+12-06-2023,East,Food,Grains,45,8357.02,70,Female,5,10068.52,-1711.5
+24-03-2023,East,Clothing,Sweater,15,382.38,56,Male,1,3427.84,-3045.46
+04-02-2023,East,Electronics,Laptop,14,2251.04,47,Female,2,2570.9,-319.86
+04-08-2023,West,Electronics,Smartphone,31,7265.78,59,Male,2,4587.03,2678.75
+11-01-2023,South,Books,Non-Fiction,42,9768.72,29,Male,3,7235.91,2532.81
+05-06-2023,Central,Books,Sci-Fi,38,18773.87,20,Male,2,5212.44,13561.43
+27-12-2023,East,Books,Sci-Fi,35,11689.44,36,Female,1,7320.71,4368.73
+19-11-2023,South,Electronics,Headphones,49,17583.65,56,Male,4,4971.35,12612.3
+05-08-2023,North,Books,Fiction,20,4844.73,64,Male,1,4241.86,602.87
+21-12-2022,West,Clothing,Sweater,23,5878.76,43,Female,2,2789.62,3089.14
+13-01-2023,Central,Clothing,T-Shirt,22,1805.91,36,Male,5,595.19,1210.72
+30-01-2023,South,Food,Grains,34,15855.99,65,Female,3,7683.1,8172.89
+23-01-2022,South,Books,Sci-Fi,40,13967.14,63,Female,5,1180.31,12786.83
+16-08-2023,West,Food,Snacks,7,570.85,27,Male,5,203.4,367.45
+09-06-2022,East,Home Goods,Lamp,18,2486.08,27,Male,5,3471.0,-984.92
+22-04-2023,North,Clothing,T-Shirt,9,531.45,26,Female,4,910.43,-378.98
+20-06-2023,Central,Books,Fiction,18,8413.65,18,Male,3,328.84,8084.81
+06-03-2022,West,Clothing,Dress,39,2857.47,57,Male,5,7190.77,-4333.3
+10-08-2022,North,Food,Produce,43,17232.45,31,Male,1,1721.78,15510.67
+23-10-2023,Central,Clothing,Jeans,44,20514.66,40,Male,5,2210.2,18304.46
+16-11-2022,West,Clothing,Sweater,30,14840.77,65,Male,2,2835.75,12005.02
+28-07-2023,Central,Electronics,Tablet,22,5192.73,57,Male,1,2004.47,3188.26
+20-06-2023,Central,Electronics,Tablet,41,19582.03,48,Male,5,2286.62,17295.41
+01-01-2023,Central,Home Goods,Table,30,8658.79,20,Female,1,2535.2,6123.59
+28-10-2022,North,Electronics,Laptop,1,210.42,38,Male,5,134.4,76.02
+30-11-2022,South,Clothing,T-Shirt,22,1957.1,20,Male,2,3798.32,-1841.22
+22-12-2023,West,Food,Grains,20,8455.37,51,Female,4,3737.5,4717.87
+11-05-2023,North,Home Goods,Table,40,2986.74,19,Male,1,9374.59,-6387.85
+09-02-2022,East,Home Goods,Chair,24,3489.36,47,Male,3,5414.25,-1924.89
+05-06-2023,South,Food,Beverages,30,14453.64,62,Male,4,1258.4,13195.24
+15-09-2023,South,Books,Fiction,6,1409.28,55,Male,3,640.24,769.04
+22-08-2023,Central,Home Goods,Table,1,461.44,57,Male,2,24.23,437.21
+10-06-2022,East,Clothing,Jeans,50,11598.03,34,Male,4,5284.22,6313.81
+24-09-2023,West,Food,Beverages,14,5997.51,43,Male,3,280.92,5716.59
+06-01-2023,Central,Books,Non-Fiction,35,4680.27,57,Female,5,1412.05,3268.22
+01-02-2022,Central,Food,Grains,47,23032.4,62,Male,5,8096.19,14936.21
+11-10-2023,North,Clothing,T-Shirt,47,14222.06,20,Female,5,11722.86,2499.2
+05-12-2023,East,Books,Mystery,41,4641.23,24,Male,3,7618.64,-2977.41
+15-02-2022,East,Books,Non-Fiction,31,11007.55,22,Female,3,7314.55,3693.0
+18-02-2023,West,Clothing,Dress,30,2286.2,66,Female,1,4204.26,-1918.06
+26-10-2022,East,Electronics,Smartphone,45,18746.27,22,Male,1,740.44,18005.83
+24-06-2023,East,Clothing,Jeans,20,7153.84,59,Male,1,4658.23,2495.61
+17-07-2022,North,Books,Fiction,43,10889.27,18,Female,1,9288.22,1601.05
+11-09-2022,South,Clothing,Jeans,5,72.78,65,Male,4,1145.26,-1072.48
+18-01-2023,Central,Books,Mystery,38,5971.38,23,Female,5,4265.24,1706.14
+28-10-2022,Central,Food,Produce,27,13312.4,43,Female,3,4266.6,9045.8
+26-02-2022,South,Home Goods,Lamp,46,4697.76,58,Female,1,4921.19,-223.43
+18-07-2022,Central,Clothing,Jeans,25,10726.19,51,Male,5,2439.87,8286.32
+01-04-2022,North,Books,Sci-Fi,16,1476.66,18,Male,5,2761.04,-1284.38
+28-12-2022,East,Clothing,Jeans,16,1537.34,41,Female,2,2463.74,-926.4
+28-11-2022,South,Home Goods,Rug,12,3917.78,57,Female,2,783.84,3133.94
+07-03-2022,East,Home Goods,Rug,39,16696.03,32,Male,1,1943.71,14752.32
+24-10-2023,South,Clothing,T-Shirt,37,13636.54,27,Male,1,5475.09,8161.45
+30-10-2023,North,Home Goods,Lamp,5,2131.21,60,Female,2,88.63,2042.58
+04-08-2023,South,Food,Produce,20,9791.25,36,Male,5,2590.04,7201.21
+05-01-2022,Central,Clothing,Jeans,11,5473.25,31,Female,2,977.54,4495.71
+26-09-2022,Central,Clothing,Sweater,27,11219.24,39,Male,2,2022.51,9196.73
+01-09-2022,North,Books,Sci-Fi,20,4100.81,55,Female,2,2805.21,1295.6
+01-01-2022,West,Clothing,Jeans,12,5913.59,27,Female,2,321.54,5592.05
+10-01-2022,North,Food,Produce,33,8568.1,60,Male,4,4654.46,3913.64
+21-11-2022,West,Books,Mystery,28,3941.99,63,Male,5,6696.26,-2754.27
+06-12-2022,South,Books,Non-Fiction,11,4351.86,62,Female,1,2253.02,2098.84
+17-05-2022,West,Food,Produce,20,3622.76,34,Male,3,719.37,2903.39
+10-08-2023,West,Food,Beverages,22,10966.05,68,Female,2,3434.59,7531.46
+05-03-2023,West,Electronics,Tablet,31,2402.61,34,Female,2,2110.45,292.16
+24-05-2022,Central,Electronics,Laptop,25,3876.68,41,Male,2,2204.5,1672.18
+02-12-2022,Central,Clothing,Sweater,4,1845.82,51,Male,5,90.28,1755.54
+31-08-2022,West,Clothing,Sweater,1,450.25,60,Female,3,151.77,298.48
+14-11-2023,Central,Clothing,Dress,48,7274.42,33,Female,1,4475.6,2798.82
+27-03-2022,North,Food,Produce,22,6709.83,48,Female,3,3373.01,3336.82
+08-05-2022,North,Electronics,Headphones,30,370.26,50,Female,1,870.08,-499.82
+06-08-2022,North,Clothing,Jeans,37,2916.65,54,Male,2,6850.91,-3934.26
+16-10-2022,North,Clothing,Sweater,44,8885.34,42,Female,5,2892.8,5992.54
+02-06-2022,North,Clothing,Jeans,17,6268.52,43,Male,4,3881.89,2386.63
+06-05-2023,Central,Clothing,Jeans,10,3188.74,66,Female,2,865.98,2322.76
+06-04-2023,North,Food,Grains,30,506.52,39,Male,1,1447.45,-940.93
+04-04-2023,West,Electronics,Laptop,37,17522.77,37,Female,5,3667.34,13855.43
+02-08-2023,West,Food,Snacks,20,7145.59,53,Female,5,2202.11,4943.48
+01-02-2022,Central,Books,Sci-Fi,1,79.05,70,Female,3,136.39,-57.34
+10-06-2022,South,Books,Non-Fiction,5,759.23,43,Female,4,217.1,542.13
+30-08-2023,South,Books,Sci-Fi,36,11180.46,28,Male,2,5220.08,5960.38
+19-11-2022,Central,Electronics,Smartphone,44,20388.86,34,Female,4,9790.35,10598.51
+01-08-2022,South,Clothing,Sweater,21,2817.91,40,Female,2,1342.6,1475.31
+14-09-2023,North,Electronics,Tablet,48,13907.65,53,Female,4,11438.25,2469.4
+15-02-2022,North,Clothing,Jeans,44,10043.77,33,Male,4,1187.22,8856.55
+18-03-2022,West,Food,Snacks,45,6946.85,60,Female,5,4001.77,2945.08
+10-09-2023,East,Home Goods,Table,11,3523.86,55,Male,4,2117.54,1406.32
+28-05-2023,West,Home Goods,Lamp,10,4500.2,51,Male,2,1821.12,2679.08
+02-12-2023,East,Clothing,Dress,12,4956.16,52,Female,1,2674.3,2281.86
+03-06-2023,West,Food,Grains,39,440.53,68,Male,4,1201.14,-760.61
+06-09-2022,West,Books,Fiction,50,12151.36,18,Female,4,498.37,11652.99
+26-10-2022,West,Food,Snacks,32,12404.55,49,Female,1,5754.85,6649.7
+27-09-2023,West,Clothing,Sweater,7,579.42,35,Female,5,848.54,-269.12
+01-03-2023,East,Books,Sci-Fi,33,13718.2,51,Female,1,2876.19,10842.01
+29-04-2023,North,Home Goods,Lamp,4,1448.93,53,Female,1,621.11,827.82
+27-06-2023,East,Electronics,Headphones,19,2782.17,26,Female,4,3778.79,-996.62
+21-07-2023,North,Home Goods,Rug,22,585.08,42,Male,4,2842.81,-2257.73
+03-05-2023,West,Home Goods,Table,23,1910.01,22,Female,4,3298.56,-1388.55
+13-08-2022,North,Books,Non-Fiction,10,3647.6,26,Male,5,2455.5,1192.1
+31-10-2023,South,Clothing,Jeans,2,941.25,26,Female,4,291.66,649.59
+30-04-2022,South,Home Goods,Lamp,46,18326.61,36,Male,1,4438.04,13888.57
+24-06-2022,East,Books,Fiction,1,148.2,20,Male,1,39.71,108.49
+14-10-2022,South,Food,Grains,14,1490.5,38,Male,4,486.5,1004.0
+15-12-2023,West,Home Goods,Table,49,1718.77,39,Male,5,9389.77,-7671.0
+13-11-2023,North,Clothing,Jeans,1,381.13,24,Female,4,172.82,208.31
+06-06-2023,North,Books,Sci-Fi,38,16480.75,23,Male,5,1739.28,14741.47
+23-09-2023,South,Food,Snacks,9,3343.31,18,Male,5,1206.45,2136.86
+10-06-2022,North,Electronics,Headphones,20,9535.05,56,Male,3,1619.31,7915.74
+24-11-2022,West,Electronics,Headphones,33,2498.54,48,Female,5,6840.5,-4341.96
+15-04-2023,West,Electronics,Tablet,16,2508.18,64,Female,5,3918.62,-1410.44
+09-04-2023,West,Clothing,Sweater,29,2954.67,48,Male,2,2435.18,519.49
+22-10-2023,East,Clothing,Dress,26,10568.85,24,Male,1,622.84,9946.01
+22-06-2023,East,Electronics,Smartphone,14,5658.07,30,Female,2,818.8,4839.27
+20-05-2022,East,Clothing,Dress,20,8322.41,28,Female,3,3327.07,4995.34
+13-04-2023,Central,Clothing,Jeans,38,7339.99,70,Female,2,5818.78,1521.21
+14-07-2022,Central,Food,Beverages,7,1590.94,18,Male,3,42.35,1548.59
+19-01-2023,East,Food,Grains,35,11263.52,67,Male,1,7263.0,4000.52
+28-09-2023,West,Clothing,Sweater,19,2796.6,24,Female,1,2528.44,268.16
+28-07-2023,East,Home Goods,Chair,3,856.22,19,Female,5,314.85,541.37
+20-09-2022,South,Food,Produce,22,5503.13,31,Male,5,1176.48,4326.65
+12-01-2022,Central,Electronics,Smartphone,40,13807.58,45,Male,2,3375.88,10431.7
+31-01-2023,North,Clothing,Dress,7,767.65,53,Female,4,311.29,456.36
+03-09-2022,West,Electronics,Headphones,45,11830.81,34,Female,5,8881.5,2949.31
+17-04-2022,North,Home Goods,Chair,24,5008.94,18,Male,3,5836.38,-827.44
+18-09-2023,West,Books,Sci-Fi,5,722.63,67,Female,4,524.29,198.34
+24-05-2023,North,Books,Fiction,17,2334.44,62,Female,1,4246.01,-1911.57
+14-11-2023,West,Food,Snacks,10,2716.21,63,Female,2,1755.08,961.13
+22-01-2023,West,Electronics,Smartphone,8,508.86,63,Male,2,547.76,-38.9
+24-07-2023,South,Food,Snacks,32,10133.14,18,Female,5,3991.78,6141.36
+13-10-2022,West,Food,Snacks,34,11349.27,22,Male,2,6944.08,4405.19
+03-05-2023,Central,Food,Produce,11,1611.29,37,Female,2,2495.19,-883.9
+12-05-2023,North,Home Goods,Rug,48,12956.18,70,Female,2,4388.87,8567.31
+22-03-2022,West,Home Goods,Chair,44,14710.25,33,Female,3,10431.97,4278.28
+15-04-2023,West,Electronics,Smartphone,20,6120.62,55,Female,5,4938.21,1182.41
+05-04-2022,South,Books,Non-Fiction,30,12238.16,31,Male,3,5166.46,7071.7
+27-10-2023,Central,Clothing,T-Shirt,39,15878.38,46,Female,5,8700.13,7178.25
+30-12-2022,Central,Food,Beverages,48,11575.7,63,Female,2,2800.13,8775.57
+02-07-2022,West,Food,Beverages,11,5056.49,34,Male,2,2258.36,2798.13
+02-09-2023,East,Clothing,Jeans,50,5122.82,50,Male,5,3850.83,1271.99
+09-03-2022,North,Food,Beverages,34,3010.29,51,Female,5,249.44,2760.85
+05-02-2022,Central,Clothing,Jeans,49,21035.38,35,Female,4,5436.16,15599.22
+24-12-2023,East,Books,Non-Fiction,45,9868.15,20,Male,1,6419.07,3449.08
+04-11-2022,West,Clothing,Dress,26,2426.27,68,Male,5,5669.15,-3242.88
+22-07-2023,East,Electronics,Smartphone,29,12382.87,19,Male,2,6027.94,6354.93
+21-08-2022,West,Food,Snacks,34,3304.56,52,Male,1,7604.14,-4299.58
+01-10-2023,North,Food,Snacks,2,660.58,64,Female,4,370.75,289.83
+06-10-2023,West,Food,Grains,34,14957.83,65,Female,5,4162.54,10795.29
+12-06-2022,South,Books,Fiction,9,3427.58,39,Male,1,1400.0,2027.58
+08-06-2022,West,Clothing,Sweater,18,2339.94,55,Female,2,1324.64,1015.3
+17-01-2022,West,Electronics,Smartphone,28,3609.29,36,Male,4,5920.39,-2311.1
+01-05-2023,North,Clothing,Jeans,1,86.89,63,Male,5,228.07,-141.18
+20-09-2023,East,Clothing,Dress,27,9781.96,54,Male,3,1293.32,8488.64
+18-08-2023,Central,Electronics,Headphones,30,4713.52,62,Male,5,310.71,4402.81
+18-01-2023,Central,Books,Mystery,12,5965.05,61,Female,3,2284.89,3680.16
+04-08-2022,East,Clothing,Dress,49,18009.0,46,Male,3,4702.19,13306.81
+20-08-2023,Central,Home Goods,Rug,29,13085.25,45,Female,2,6460.21,6625.04
+04-03-2023,Central,Books,Sci-Fi,11,2771.56,42,Male,4,1598.38,1173.18
+12-06-2023,North,Electronics,Smartphone,15,7290.65,66,Female,4,2499.88,4790.77
+16-07-2022,South,Food,Grains,40,3993.48,62,Female,4,6377.09,-2383.61
+29-10-2023,North,Books,Sci-Fi,17,6336.95,36,Male,4,434.83,5902.12
+25-04-2023,North,Home Goods,Rug,25,6257.77,39,Male,2,5119.94,1137.83
+12-01-2022,West,Books,Fiction,36,16891.71,50,Female,4,8124.85,8766.86
+13-06-2023,North,Clothing,Jeans,16,3439.33,33,Female,3,2797.05,642.28
+15-11-2022,North,Electronics,Laptop,47,1981.0,46,Male,5,9354.83,-7373.83
+15-06-2023,East,Home Goods,Table,41,6554.41,40,Female,5,8826.39,-2271.98
+08-01-2023,West,Clothing,Jeans,2,402.02,38,Female,5,484.28,-82.26
+02-03-2022,North,Food,Snacks,2,509.77,42,Male,3,104.74,405.03
+14-08-2022,North,Clothing,Jeans,18,393.56,68,Male,1,3229.27,-2835.71
+16-02-2022,North,Books,Fiction,44,13597.97,48,Female,1,8891.62,4706.35
+04-03-2023,West,Electronics,Smartphone,30,2729.07,63,Male,5,662.28,2066.79
+23-09-2023,North,Books,Fiction,7,988.2,49,Female,3,429.77,558.43
+27-06-2023,North,Clothing,T-Shirt,23,9326.55,54,Male,4,2122.83,7203.72
+12-03-2023,North,Home Goods,Rug,43,13323.15,63,Female,3,4080.38,9242.77
+10-05-2022,West,Home Goods,Chair,34,11267.92,65,Female,1,3942.07,7325.85
+04-08-2022,West,Food,Snacks,49,10022.74,53,Male,2,3612.23,6410.51
+09-07-2022,East,Home Goods,Lamp,44,20710.12,59,Female,5,5785.26,14924.86
+20-12-2023,East,Books,Non-Fiction,26,11061.31,43,Female,1,2224.39,8836.92
+04-02-2022,South,Electronics,Laptop,25,1332.45,39,Female,2,3465.83,-2133.38
+16-11-2023,East,Food,Grains,32,9886.06,33,Female,4,4713.23,5172.83
+09-10-2023,South,Home Goods,Rug,14,5358.84,29,Female,1,1531.83,3827.01
+18-08-2023,South,Food,Beverages,28,2609.33,41,Female,5,6198.92,-3589.59
+18-06-2023,North,Food,Produce,44,7038.29,40,Female,5,3465.96,3572.33
+16-11-2022,West,Clothing,Jeans,25,4071.63,20,Male,3,2900.33,1171.3
+07-09-2022,East,Home Goods,Lamp,50,13462.43,45,Female,3,6515.57,6946.86
+25-10-2022,North,Books,Mystery,11,2435.17,34,Female,1,2392.93,42.24
+29-03-2022,Central,Books,Sci-Fi,6,566.14,32,Male,2,327.48,238.66
+29-04-2022,West,Clothing,Sweater,37,14806.1,39,Male,1,5570.69,9235.41
+13-09-2022,Central,Electronics,Smartphone,24,711.95,66,Female,5,1291.85,-579.9
+21-05-2022,South,Food,Beverages,30,14643.54,69,Female,1,5143.3,9500.24
+26-11-2023,East,Food,Grains,25,1508.22,33,Male,1,1935.13,-426.91
+08-10-2022,West,Home Goods,Rug,14,3571.33,56,Male,4,2843.1,728.23
+09-01-2023,West,Books,Non-Fiction,38,13702.55,21,Female,1,3028.47,10674.08
+08-08-2023,South,Food,Snacks,16,356.27,63,Male,1,222.6,133.67
+29-08-2023,Central,Home Goods,Rug,27,12255.57,27,Female,5,3317.29,8938.28
+02-03-2023,North,Food,Produce,5,1624.64,39,Female,5,929.23,695.41
+24-10-2023,North,Electronics,Tablet,20,4984.17,43,Female,5,1282.44,3701.73
+05-06-2023,North,Books,Mystery,44,9728.39,21,Male,5,3524.92,6203.47
+24-03-2023,East,Clothing,T-Shirt,22,7863.48,24,Female,5,5176.87,2686.61
+13-03-2022,South,Clothing,Sweater,17,6103.41,40,Male,3,4059.81,2043.6
+05-11-2022,Central,Home Goods,Chair,45,987.45,43,Female,1,4150.16,-3162.71
+02-07-2023,North,Electronics,Tablet,23,9730.54,60,Male,5,5530.56,4199.98
+01-06-2022,Central,Food,Snacks,5,971.15,69,Female,1,724.91,246.24
+19-10-2022,South,Food,Snacks,44,21862.26,31,Male,1,585.84,21276.42
+08-09-2022,Central,Books,Non-Fiction,18,2700.56,65,Female,5,1054.21,1646.35
+10-09-2023,North,Food,Grains,22,9881.43,48,Female,3,4616.08,5265.35
+29-10-2022,East,Electronics,Headphones,6,1197.35,37,Female,2,1161.17,36.18
+13-07-2022,South,Home Goods,Rug,14,3757.52,51,Female,3,3062.72,694.8
+25-06-2023,West,Books,Fiction,9,2298.74,59,Male,4,1839.67,459.07
+24-05-2022,Central,Clothing,Jeans,3,330.77,54,Male,5,673.43,-342.66
+07-01-2022,West,Books,Sci-Fi,27,4050.84,49,Male,1,5158.87,-1108.03
+22-02-2022,South,Home Goods,Chair,37,11784.37,47,Male,4,7448.69,4335.68
+26-05-2023,West,Home Goods,Rug,50,22208.65,55,Male,4,2235.31,19973.34
+08-07-2022,Central,Food,Snacks,16,7823.09,49,Female,5,1841.1,5981.99
+12-12-2023,South,Electronics,Laptop,21,4917.94,18,Male,2,997.68,3920.26
+22-02-2023,East,Electronics,Headphones,6,2941.29,59,Male,4,228.99,2712.3
+26-10-2022,North,Books,Non-Fiction,42,20284.1,65,Male,5,1043.05,19241.05
+15-07-2023,West,Food,Produce,19,849.73,23,Male,3,3724.59,-2874.86
+28-06-2022,East,Clothing,T-Shirt,8,2037.82,39,Male,5,1048.63,989.19
+17-11-2022,South,Food,Beverages,9,3121.03,56,Female,3,805.45,2315.58
+08-05-2023,North,Clothing,T-Shirt,5,1664.36,39,Male,5,799.22,865.14
+01-08-2023,East,Home Goods,Chair,31,5694.37,63,Male,2,6482.92,-788.55
+10-11-2022,South,Electronics,Headphones,8,930.38,53,Male,2,1324.41,-394.03
+24-03-2023,East,Electronics,Laptop,33,4160.54,35,Male,3,788.61,3371.93
+01-04-2022,North,Home Goods,Rug,11,5093.31,66,Male,4,321.51,4771.8
+16-12-2023,Central,Electronics,Tablet,44,18112.36,58,Female,3,3283.42,14828.94
+10-07-2023,East,Food,Beverages,3,971.88,60,Male,2,75.31,896.57
+29-11-2023,East,Food,Produce,27,5562.07,64,Male,2,6236.09,-674.02
+06-02-2023,South,Home Goods,Table,18,5972.55,59,Male,2,1488.77,4483.78
+12-08-2022,West,Clothing,T-Shirt,48,11662.84,63,Female,5,4307.48,7355.36
+13-07-2022,South,Books,Mystery,40,11796.11,51,Male,5,551.89,11244.22
+23-04-2023,East,Food,Produce,26,3443.25,46,Female,5,874.16,2569.09
+01-11-2022,West,Electronics,Laptop,15,4165.67,69,Female,4,1497.88,2667.79
+16-03-2022,North,Home Goods,Lamp,24,10085.26,34,Male,3,2719.09,7366.17
+20-04-2023,West,Books,Non-Fiction,29,1873.73,22,Female,3,2370.1,-496.37
+25-04-2022,Central,Clothing,Dress,44,1538.52,32,Female,1,3035.13,-1496.61
+13-11-2023,West,Home Goods,Chair,19,232.48,45,Male,4,3749.57,-3517.09
+19-06-2022,North,Books,Sci-Fi,3,230.84,57,Male,3,318.62,-87.78
+12-03-2022,West,Books,Fiction,22,5054.42,47,Female,5,1672.84,3381.58
+16-02-2022,North,Clothing,Sweater,12,4662.77,61,Male,2,2744.4,1918.37
+20-04-2022,North,Electronics,Headphones,24,624.41,36,Female,4,2733.08,-2108.67
+11-06-2022,South,Electronics,Tablet,45,14749.72,40,Male,2,6947.97,7801.75
+04-05-2022,West,Home Goods,Table,47,13098.96,59,Female,5,10613.33,2485.63
+14-10-2022,South,Home Goods,Lamp,11,3283.24,60,Male,1,1846.25,1436.99
+02-11-2022,East,Food,Beverages,8,1034.99,49,Male,5,1510.43,-475.44
+07-02-2023,North,Clothing,Jeans,38,1645.74,19,Female,4,2630.16,-984.42
+11-12-2022,Central,Electronics,Tablet,33,13465.91,60,Male,2,7255.85,6210.06
+07-07-2022,East,Food,Snacks,16,1462.89,47,Male,4,991.24,471.65
+23-11-2023,West,Food,Produce,19,1487.91,25,Male,1,4063.34,-2575.43
+27-01-2022,Central,Electronics,Tablet,29,6338.53,68,Male,2,2869.25,3469.28
+01-05-2022,North,Home Goods,Chair,21,8583.28,21,Male,2,4980.34,3602.94
+10-09-2023,South,Home Goods,Chair,36,4432.3,29,Male,2,2329.01,2103.29
+08-04-2022,West,Food,Snacks,18,3066.27,43,Male,1,3094.28,-28.01
+14-02-2022,South,Books,Mystery,32,8979.24,40,Male,3,4108.24,4871.0
+21-09-2023,Central,Home Goods,Table,33,13901.74,48,Male,4,3080.71,10821.03
+30-01-2022,East,Electronics,Smartphone,18,8886.74,38,Male,5,150.71,8736.03
+26-01-2022,West,Food,Snacks,44,16606.25,26,Female,2,5384.56,11221.69
+14-09-2023,North,Books,Sci-Fi,25,2090.17,25,Female,1,6146.21,-4056.04
+21-09-2023,Central,Books,Non-Fiction,40,15182.68,43,Female,2,7612.41,7570.27
+30-06-2022,Central,Food,Produce,15,6592.0,18,Male,1,2103.93,4488.07
+12-01-2023,Central,Clothing,Sweater,29,6649.41,56,Female,2,3343.44,3305.97
+19-12-2022,East,Food,Beverages,40,12095.54,57,Female,2,7155.74,4939.8
+05-12-2022,South,Electronics,Laptop,33,3183.44,57,Female,3,3682.59,-499.15
+28-02-2022,South,Clothing,T-Shirt,36,4646.59,58,Female,5,5945.21,-1298.62
+09-07-2022,East,Food,Grains,6,616.47,61,Male,3,1205.6,-589.13
+26-08-2022,South,Books,Fiction,18,6951.06,27,Female,2,2441.6,4509.46
+09-03-2022,North,Electronics,Laptop,42,8140.37,35,Male,3,6468.06,1672.31
+15-08-2022,South,Electronics,Smartphone,4,1813.18,63,Female,3,730.13,1083.05
+11-07-2023,North,Clothing,Dress,5,327.7,41,Male,1,39.95,287.75
+21-09-2023,East,Food,Grains,22,4104.29,38,Female,5,1184.59,2919.7
+14-12-2022,East,Books,Fiction,8,2365.95,66,Female,2,1739.93,626.02
+08-12-2023,North,Clothing,Jeans,24,6960.25,25,Female,5,4632.02,2328.23
+14-05-2023,West,Electronics,Laptop,26,3721.09,25,Female,1,2638.74,1082.35
+08-11-2022,Central,Clothing,Dress,35,14277.75,59,Female,2,1603.43,12674.32
+09-04-2023,South,Food,Snacks,45,14800.23,69,Female,4,8782.17,6018.06
+10-08-2023,North,Home Goods,Lamp,17,8227.52,55,Female,2,489.44,7738.08
+24-06-2023,West,Books,Sci-Fi,26,8690.71,63,Female,5,3710.38,4980.33
+14-05-2022,West,Home Goods,Rug,45,10391.02,29,Male,4,9272.49,1118.53
+03-09-2023,South,Home Goods,Chair,19,1883.04,30,Male,4,2386.37,-503.33
+21-02-2022,South,Electronics,Tablet,30,12799.01,20,Female,1,4359.5,8439.51
+14-07-2023,South,Books,Sci-Fi,10,2931.0,58,Male,5,1330.81,1600.19
+08-05-2023,North,Home Goods,Lamp,43,6064.36,39,Female,4,3978.53,2085.83
+19-10-2022,North,Home Goods,Chair,14,2804.74,36,Female,2,1820.7,984.04
+23-11-2022,North,Electronics,Laptop,27,8737.63,53,Female,2,2167.3,6570.33
+05-04-2023,East,Electronics,Smartphone,21,341.82,49,Female,2,4636.8,-4294.98
+08-12-2023,Central,Books,Fiction,42,10196.1,50,Female,4,10490.24,-294.14
+28-08-2023,Central,Home Goods,Lamp,15,5410.28,62,Male,4,2815.63,2594.65
+12-12-2023,North,Electronics,Smartphone,28,13548.86,55,Male,4,6007.64,7541.22
+08-01-2022,West,Home Goods,Table,38,9334.93,34,Male,4,8589.13,745.8
+06-04-2023,Central,Home Goods,Rug,41,6805.98,45,Male,2,5379.16,1426.82
+05-05-2022,Central,Clothing,Jeans,39,14974.48,68,Female,5,6765.98,8208.5
+29-10-2023,South,Food,Produce,47,473.22,30,Male,4,594.81,-121.59
+10-05-2022,South,Home Goods,Lamp,15,6254.53,68,Male,1,2068.39,4186.14
+20-06-2022,Central,Clothing,Sweater,16,5208.91,51,Male,5,2330.2,2878.71
+04-08-2023,Central,Home Goods,Lamp,13,5152.55,34,Female,5,1101.36,4051.19
+15-01-2022,West,Home Goods,Lamp,36,2404.24,53,Female,2,4255.17,-1850.93
+28-03-2022,West,Books,Sci-Fi,34,5325.46,61,Female,4,3004.23,2321.23
+13-06-2023,North,Electronics,Laptop,33,5030.46,22,Male,4,5347.83,-317.37
+27-01-2023,North,Home Goods,Lamp,42,20321.02,46,Male,3,9698.5,10622.52
+03-10-2022,Central,Electronics,Smartphone,41,7358.74,20,Female,4,8420.21,-1061.47
+29-12-2022,Central,Clothing,T-Shirt,20,4518.74,58,Male,1,1024.73,3494.01
+26-11-2022,Central,Books,Fiction,18,7501.52,38,Male,4,2235.95,5265.57
+30-10-2022,North,Home Goods,Table,25,5224.0,37,Male,3,3009.3,2214.7
+14-05-2022,East,Food,Snacks,24,10605.65,51,Male,4,1236.14,9369.51
+08-08-2023,Central,Home Goods,Table,22,2817.42,42,Male,4,5256.7,-2439.28
+13-09-2022,East,Books,Fiction,18,3574.96,63,Female,2,2159.59,1415.37
+22-09-2023,South,Clothing,T-Shirt,24,8149.93,55,Female,2,598.85,7551.08
+09-01-2022,North,Food,Beverages,27,12207.23,49,Male,2,6726.36,5480.87
+22-07-2023,South,Electronics,Laptop,32,7062.28,41,Male,2,5450.48,1611.8
+09-09-2023,Central,Home Goods,Chair,21,8169.97,44,Female,2,1156.96,7013.01
+09-09-2023,North,Home Goods,Chair,45,22188.7,20,Male,4,8047.71,14140.99
+10-03-2023,South,Food,Beverages,4,1210.55,46,Female,3,88.78,1121.77
+01-05-2023,West,Food,Snacks,32,14105.36,70,Female,2,2857.72,11247.64
+31-10-2022,North,Home Goods,Chair,7,3251.33,49,Female,3,1302.35,1948.98
+19-12-2023,East,Food,Produce,18,8870.85,55,Female,5,4022.1,4848.75
+03-12-2022,Central,Clothing,Jeans,4,1118.33,37,Male,2,101.84,1016.49
+01-01-2024,North,Clothing,T-Shirt,45,5584.11,52,Male,5,10181.04,-4596.93
+24-05-2023,Central,Electronics,Headphones,35,9292.05,50,Female,4,446.85,8845.2
+03-04-2023,Central,Clothing,Dress,3,641.92,42,Male,1,20.06,621.86
+29-01-2022,West,Home Goods,Table,25,6475.4,37,Female,2,178.17,6297.23
+14-02-2022,North,Electronics,Headphones,34,9075.79,32,Male,3,2561.06,6514.73
+02-02-2022,East,Food,Produce,30,3562.66,47,Female,1,1307.24,2255.42
+05-11-2023,North,Clothing,T-Shirt,2,767.78,63,Male,3,211.93,555.85
+21-10-2022,Central,Food,Produce,3,197.66,30,Female,2,565.28,-367.62
+06-06-2023,Central,Books,Fiction,47,16956.66,32,Male,3,6684.24,10272.42
+14-02-2023,South,Food,Grains,13,5315.32,49,Male,5,2149.51,3165.81
+01-08-2023,South,Clothing,Jeans,49,14255.9,22,Female,4,10577.63,3678.27
+13-12-2022,West,Books,Non-Fiction,40,8647.38,27,Female,3,1084.03,7563.35
+25-09-2023,North,Electronics,Laptop,28,5526.46,45,Female,5,6618.43,-1091.97
+14-10-2022,Central,Food,Produce,19,8623.44,59,Male,1,347.51,8275.93
+23-11-2022,East,Electronics,Tablet,6,741.49,44,Female,3,993.34,-251.85
+28-12-2022,South,Food,Produce,40,10706.53,18,Male,4,4982.94,5723.59
+10-05-2023,North,Clothing,Dress,28,13079.72,51,Female,2,3697.13,9382.59
+21-11-2022,East,Clothing,Sweater,29,8185.88,23,Female,5,3129.8,5056.08
+25-06-2023,Central,Food,Produce,27,5839.13,36,Female,4,1689.63,4149.5
+18-04-2023,South,Electronics,Laptop,14,212.26,58,Female,2,2354.11,-2141.85
+18-06-2023,South,Clothing,Dress,11,1665.39,28,Female,5,491.84,1173.55
+08-06-2023,South,Clothing,Dress,26,7225.27,27,Female,2,2148.11,5077.16
+24-06-2022,North,Clothing,Sweater,18,5765.24,26,Female,5,3269.84,2495.4
+27-04-2022,West,Electronics,Headphones,29,2374.68,43,Female,4,7041.77,-4667.09
+24-04-2023,West,Clothing,T-Shirt,43,1490.92,33,Female,4,7103.22,-5612.3
+14-12-2023,Central,Home Goods,Lamp,42,7199.97,60,Male,4,8864.5,-1664.53
+07-09-2022,West,Electronics,Smartphone,22,7856.15,34,Male,1,2179.43,5676.72
+06-09-2022,East,Books,Mystery,45,9964.46,60,Male,3,4105.89,5858.57
+08-09-2022,South,Books,Sci-Fi,13,2496.07,28,Male,4,3213.42,-717.35
+30-11-2023,West,Books,Non-Fiction,12,2395.42,46,Female,1,2969.16,-573.74
+05-06-2022,Central,Clothing,Jeans,29,13018.9,69,Female,4,5623.93,7394.97
+15-05-2022,Central,Food,Produce,37,10796.88,64,Female,1,4220.48,6576.4
+24-03-2022,East,Books,Sci-Fi,47,8377.21,25,Male,4,1532.22,6844.99
+09-06-2023,West,Food,Grains,41,19912.77,70,Male,5,8029.84,11882.93
+27-08-2022,South,Home Goods,Lamp,16,3572.08,20,Female,4,1244.05,2328.03
+27-10-2022,Central,Books,Sci-Fi,11,4542.09,31,Female,1,1073.44,3468.65
+27-01-2023,Central,Food,Produce,12,4333.3,40,Female,5,2328.21,2005.09
+27-05-2023,North,Home Goods,Table,9,3272.36,22,Female,1,2248.6,1023.76
+13-10-2022,East,Clothing,Dress,35,17246.21,30,Female,2,5490.5,11755.71
+28-07-2022,South,Home Goods,Rug,20,6372.66,36,Female,2,4158.78,2213.88
+28-11-2022,South,Books,Fiction,49,23130.78,21,Female,2,6582.97,16547.81
+08-10-2022,South,Books,Sci-Fi,17,6167.03,41,Female,5,3474.77,2692.26
+31-08-2022,North,Clothing,Sweater,18,7384.05,34,Female,2,2723.95,4660.1
+04-04-2022,South,Electronics,Laptop,7,766.28,47,Male,5,50.56,715.72
+01-07-2022,Central,Clothing,T-Shirt,8,641.33,33,Male,1,1929.86,-1288.53
+31-03-2022,Central,Books,Non-Fiction,37,15698.68,37,Female,5,408.35,15290.33
+16-08-2023,West,Home Goods,Table,38,3417.2,67,Female,4,3805.12,-387.92
+23-05-2023,East,Food,Snacks,38,7911.73,23,Male,2,8214.58,-302.85
+09-02-2023,West,Clothing,Dress,33,2549.46,67,Male,1,6177.39,-3627.93
+22-06-2022,West,Home Goods,Lamp,36,9531.73,43,Female,1,7991.56,1540.17
+26-09-2022,North,Food,Beverages,5,1071.25,51,Male,1,1063.1,8.15
+26-04-2023,West,Books,Sci-Fi,30,6835.99,69,Male,4,5657.65,1178.34
+31-05-2023,South,Home Goods,Rug,15,2921.0,34,Male,1,100.31,2820.69
+12-10-2022,Central,Food,Grains,20,4070.52,68,Male,2,939.07,3131.45
+02-12-2023,North,Home Goods,Chair,30,9780.7,53,Female,1,4621.88,5158.82
+18-06-2022,West,Books,Sci-Fi,20,3015.63,45,Female,4,1012.49,2003.14
+16-11-2023,North,Electronics,Tablet,23,560.33,63,Female,5,2523.94,-1963.61
+21-09-2023,North,Electronics,Smartphone,43,21391.87,57,Female,4,3076.41,18315.46
+02-10-2022,North,Home Goods,Rug,42,10033.91,53,Male,1,2375.95,7657.96
+10-08-2022,West,Clothing,T-Shirt,38,18134.49,28,Male,1,5214.59,12919.9
+07-12-2023,South,Books,Mystery,6,514.03,60,Female,3,321.38,192.65
+21-09-2022,North,Clothing,T-Shirt,46,10885.92,43,Male,4,1273.39,9612.53
+08-06-2023,Central,Food,Snacks,49,13766.18,51,Male,4,5836.17,7930.01
+07-10-2022,West,Electronics,Laptop,7,2064.64,59,Male,4,507.33,1557.31
+08-12-2022,South,Electronics,Tablet,20,7465.54,38,Female,2,4515.56,2949.98
+24-04-2023,West,Electronics,Tablet,14,5370.02,60,Male,1,2017.13,3352.89
+21-09-2022,East,Clothing,Dress,2,418.36,47,Male,1,132.46,285.9
+30-06-2023,West,Food,Produce,11,1881.67,29,Male,4,1001.36,880.31
+07-11-2023,Central,Home Goods,Table,43,17439.51,21,Female,4,10505.51,6934.0
+24-06-2022,South,Electronics,Tablet,2,293.22,33,Female,4,417.62,-124.4
+17-07-2022,South,Electronics,Headphones,38,12598.33,34,Female,4,6459.65,6138.68
+05-01-2023,South,Home Goods,Table,3,805.36,68,Male,1,411.46,393.9
+23-01-2023,North,Food,Grains,43,6104.09,69,Male,4,6239.74,-135.65
+19-03-2022,West,Books,Sci-Fi,33,2748.76,52,Female,2,3428.72,-679.96
+11-07-2023,West,Home Goods,Rug,38,14911.37,59,Male,1,577.54,14333.83
+03-02-2022,West,Books,Sci-Fi,1,118.91,21,Male,3,200.77,-81.86
+17-04-2023,South,Food,Snacks,27,2336.66,22,Male,4,5504.1,-3167.44
+18-01-2023,South,Books,Sci-Fi,40,1284.35,66,Male,2,7578.82,-6294.47
+27-10-2022,East,Food,Grains,8,1144.51,69,Male,3,1828.1,-683.59
+22-08-2023,West,Clothing,Dress,40,16892.51,49,Female,4,5666.23,11226.28
+23-07-2022,East,Electronics,Tablet,45,10946.02,26,Male,2,4866.58,6079.44
+24-03-2023,East,Home Goods,Rug,24,7182.93,23,Male,1,825.5,6357.43
+07-06-2022,East,Home Goods,Rug,29,13023.01,44,Female,5,920.13,12102.88
+28-02-2022,North,Electronics,Smartphone,38,18064.49,47,Male,5,722.35,17342.14
+02-04-2022,West,Home Goods,Chair,28,1255.78,28,Male,3,2895.64,-1639.86
+12-07-2022,West,Books,Non-Fiction,19,5955.63,50,Female,1,3582.68,2372.95
+17-09-2022,Central,Food,Grains,42,1518.41,57,Female,4,6083.85,-4565.44
+21-06-2023,North,Food,Produce,17,6876.35,32,Male,1,3104.81,3771.54
+10-01-2022,North,Clothing,T-Shirt,30,10964.35,18,Male,5,3922.96,7041.39
+24-11-2022,North,Home Goods,Rug,40,19933.34,62,Female,4,6505.43,13427.91
+24-02-2023,East,Books,Fiction,32,4450.36,33,Female,3,2534.54,1915.82
+25-10-2022,West,Clothing,Sweater,15,7372.62,51,Male,2,1385.73,5986.89
+11-04-2023,East,Clothing,Jeans,13,1800.46,37,Female,5,3073.05,-1272.59
+06-10-2023,South,Home Goods,Rug,41,9310.02,35,Male,5,2457.64,6852.38
+01-01-2022,North,Clothing,Sweater,26,10852.34,24,Male,1,5331.92,5520.42
+18-09-2022,West,Food,Beverages,9,2341.34,18,Female,5,1668.96,672.38
+10-04-2023,North,Books,Mystery,48,17297.86,23,Male,5,10840.25,6457.61
+12-04-2022,West,Food,Produce,7,391.87,63,Male,4,812.74,-420.87
+17-05-2023,North,Books,Non-Fiction,24,11929.28,51,Male,1,2368.75,9560.53
+15-08-2022,West,Home Goods,Chair,19,5280.12,25,Male,4,3196.83,2083.29
+17-09-2022,South,Books,Fiction,21,3442.14,57,Female,5,3801.2,-359.06
+30-06-2023,South,Electronics,Tablet,44,5426.86,55,Male,5,2864.85,2562.01
+28-03-2022,East,Clothing,Dress,26,9215.72,21,Female,2,5495.99,3719.73
+05-06-2023,Central,Food,Produce,31,14183.1,33,Female,2,7326.73,6856.37
+27-09-2022,South,Clothing,Jeans,26,9608.3,37,Male,4,4903.86,4704.44
+10-04-2023,South,Food,Grains,43,14360.52,31,Male,3,7146.88,7213.64
+22-11-2023,North,Electronics,Headphones,13,6037.45,50,Male,1,3113.79,2923.66
+17-10-2023,South,Books,Fiction,31,4772.37,39,Female,1,4660.5,111.87
+04-02-2022,West,Food,Grains,12,4239.01,44,Female,4,2857.51,1381.5
+22-02-2022,South,Clothing,Dress,30,550.85,70,Female,3,1632.81,-1081.96
+06-02-2022,West,Clothing,Jeans,27,1404.42,20,Male,1,3319.84,-1915.42
+10-06-2023,South,Home Goods,Rug,7,3084.47,59,Male,2,766.66,2317.81
+18-05-2023,West,Electronics,Smartphone,14,2378.07,68,Female,2,734.72,1643.35
+06-03-2023,Central,Clothing,Jeans,26,4842.26,27,Male,5,2266.4,2575.86
+02-06-2022,Central,Home Goods,Table,24,11958.58,47,Female,2,378.11,11580.47
+06-11-2022,East,Food,Snacks,21,8406.23,57,Male,2,1662.05,6744.18
+22-02-2022,Central,Home Goods,Chair,33,8110.77,46,Male,4,6955.27,1155.5
+01-06-2022,West,Electronics,Tablet,28,6234.72,27,Female,2,2742.33,3492.39
+07-04-2022,East,Books,Fiction,23,1664.07,59,Female,5,4314.44,-2650.37
+14-05-2022,Central,Home Goods,Chair,39,2953.35,57,Male,2,5702.95,-2749.6
+16-11-2022,South,Clothing,Sweater,6,1490.56,48,Male,3,1091.61,398.95
+24-05-2023,East,Books,Mystery,28,6481.44,65,Male,1,3202.63,3278.81
+26-10-2022,North,Food,Produce,34,6245.45,41,Female,3,2014.93,4230.52
+06-05-2023,West,Books,Fiction,27,8149.81,40,Female,4,2872.43,5277.38
+21-11-2022,South,Food,Grains,12,5707.46,35,Male,3,1630.45,4077.01
+26-12-2023,Central,Electronics,Headphones,16,5474.4,51,Female,4,2604.64,2869.76
+01-10-2023,South,Books,Mystery,23,8853.9,47,Female,3,771.36,8082.54
+12-01-2023,East,Food,Beverages,5,2487.59,33,Female,1,1115.66,1371.93
+27-04-2022,North,Home Goods,Lamp,43,9359.94,56,Female,4,6885.39,2474.55
+03-09-2022,Central,Home Goods,Rug,29,10604.72,30,Female,3,3225.86,7378.86
+25-01-2023,North,Books,Mystery,15,7208.78,60,Male,3,145.63,7063.15
+12-03-2023,North,Electronics,Tablet,44,9383.07,57,Female,3,9123.29,259.78
+07-10-2022,South,Food,Snacks,29,2658.8,33,Female,4,4077.67,-1418.87
+12-07-2022,North,Electronics,Tablet,5,2418.95,18,Male,5,164.59,2254.36
+03-02-2023,South,Food,Grains,25,6024.93,48,Female,5,3967.36,2057.57
+21-01-2022,Central,Home Goods,Rug,37,16492.46,39,Male,1,3919.57,12572.89
+09-06-2022,North,Home Goods,Lamp,36,12468.59,48,Female,2,7143.61,5324.98
+20-11-2022,West,Electronics,Tablet,19,3252.39,30,Female,5,2376.9,875.49
+18-02-2023,North,Books,Mystery,36,5704.6,55,Female,5,8100.04,-2395.44
+16-09-2022,South,Home Goods,Lamp,23,2836.6,55,Male,2,1397.02,1439.58
+25-02-2022,South,Home Goods,Lamp,43,12805.84,52,Male,5,4027.2,8778.64
+22-09-2022,North,Food,Produce,5,1502.17,22,Female,3,50.25,1451.92
+25-06-2022,East,Home Goods,Rug,38,14525.44,39,Female,2,7364.73,7160.71
+06-09-2022,West,Home Goods,Table,48,23697.95,35,Male,2,10676.93,13021.02
+18-12-2022,Central,Food,Beverages,45,21568.99,19,Female,2,3615.5,17953.49
+21-10-2022,Central,Clothing,Jeans,41,11441.83,33,Female,3,6920.72,4521.11
+19-02-2022,West,Clothing,Jeans,30,10172.02,35,Female,5,1908.27,8263.75
+28-02-2022,Central,Food,Grains,26,11596.06,45,Female,4,3643.44,7952.62
+24-12-2022,East,Home Goods,Table,13,1822.46,34,Male,2,2294.59,-472.13
+04-12-2023,South,Clothing,T-Shirt,17,5387.8,64,Female,3,979.96,4407.84
+02-08-2022,North,Clothing,Jeans,34,5257.08,54,Female,1,7185.23,-1928.15
+29-03-2022,North,Clothing,Jeans,41,16296.06,35,Female,1,3817.42,12478.64
+31-12-2022,West,Books,Fiction,43,803.24,55,Female,1,8134.38,-7331.14
+19-03-2023,North,Electronics,Smartphone,1,41.69,61,Female,3,229.44,-187.75
+21-02-2023,South,Clothing,Sweater,41,13332.51,34,Male,2,4143.88,9188.63
+11-04-2022,North,Food,Produce,36,4072.45,41,Male,3,4832.4,-759.95
+16-11-2023,West,Home Goods,Lamp,13,5288.36,54,Male,2,460.0,4828.36
+13-07-2023,South,Clothing,T-Shirt,41,714.65,18,Male,2,6946.88,-6232.23
+17-07-2022,North,Electronics,Tablet,45,1956.97,58,Male,4,1218.83,738.14
+08-09-2022,East,Clothing,T-Shirt,12,881.56,27,Male,5,1431.98,-550.42
+28-07-2023,South,Home Goods,Table,29,437.17,40,Female,2,2587.45,-2150.28
+16-02-2022,West,Home Goods,Table,32,1027.0,28,Female,2,5536.74,-4509.74
+22-09-2022,Central,Books,Fiction,24,4118.15,51,Male,5,2576.39,1541.76
+24-11-2023,East,Books,Fiction,50,17485.32,19,Female,5,6887.79,10597.53
+02-03-2023,East,Home Goods,Chair,27,4916.02,41,Male,3,1711.04,3204.98
+01-02-2022,Central,Books,Mystery,33,12396.69,32,Male,5,7446.26,4950.43
+07-05-2022,North,Books,Fiction,6,60.2,52,Male,2,379.68,-319.48
+10-01-2022,South,Food,Produce,25,4254.02,28,Female,4,301.98,3952.04
+17-12-2022,Central,Home Goods,Lamp,23,3836.59,25,Female,1,3449.11,387.48
+06-01-2022,East,Clothing,Jeans,6,1169.37,19,Female,2,529.92,639.45
+11-07-2022,Central,Electronics,Laptop,40,15782.09,27,Male,2,2175.12,13606.97
+08-05-2022,South,Electronics,Laptop,7,691.09,47,Male,1,1186.26,-495.17
+12-12-2022,South,Books,Fiction,43,6988.41,25,Female,2,5706.93,1281.48
+08-09-2023,Central,Home Goods,Chair,37,16500.6,60,Male,4,7142.47,9358.13
+22-11-2023,West,Electronics,Laptop,23,10902.31,18,Male,5,3721.27,7181.04
+06-09-2022,South,Food,Snacks,4,1473.57,44,Female,3,151.29,1322.28
+11-08-2023,East,Clothing,Jeans,17,3639.02,69,Female,3,2833.57,805.45
+28-03-2023,East,Books,Mystery,21,6110.42,58,Male,1,4512.85,1597.57
+22-11-2022,South,Food,Beverages,49,23388.31,58,Male,5,316.95,23071.36
+20-09-2022,West,Books,Sci-Fi,38,17189.72,63,Female,2,4320.31,12869.41
+01-03-2023,Central,Clothing,Dress,40,12711.29,68,Male,4,470.44,12240.85
+07-10-2022,West,Food,Produce,24,10663.3,39,Male,2,481.57,10181.73
+17-01-2023,South,Electronics,Tablet,44,15587.57,26,Male,3,2566.66,13020.91
+05-12-2023,East,Clothing,Sweater,41,12143.34,51,Female,5,3323.69,8819.65
+13-03-2022,North,Electronics,Tablet,20,3383.9,46,Female,1,3682.91,-299.01
+04-04-2023,West,Clothing,Dress,49,963.63,25,Male,2,6381.31,-5417.68
+31-03-2022,South,Home Goods,Table,37,7509.05,32,Male,2,3120.24,4388.81
+28-01-2022,North,Electronics,Smartphone,35,15697.03,52,Female,1,3815.12,11881.91
+18-02-2022,Central,Books,Non-Fiction,11,5179.43,60,Male,4,2673.67,2505.76
+12-09-2023,North,Clothing,Dress,38,5996.68,50,Male,1,2864.44,3132.24
+13-09-2022,East,Food,Beverages,44,6963.89,29,Male,3,2053.09,4910.8
+07-09-2022,Central,Clothing,T-Shirt,20,1325.04,59,Male,5,2022.14,-697.1
+28-04-2022,South,Books,Fiction,22,10838.8,46,Female,2,1427.5,9411.3
+02-07-2022,East,Electronics,Smartphone,11,2616.3,24,Female,5,287.27,2329.03
+05-11-2022,South,Clothing,Dress,33,14356.85,42,Male,1,3877.44,10479.41
+27-02-2022,East,Food,Beverages,49,18716.36,22,Female,2,7073.52,11642.84
+20-02-2023,Central,Books,Sci-Fi,4,1873.16,32,Female,2,601.27,1271.89
+29-11-2023,South,Food,Grains,10,351.15,41,Male,5,2407.05,-2055.9
+18-02-2023,West,Clothing,T-Shirt,26,12296.44,54,Male,4,2555.48,9740.96
+14-09-2022,Central,Clothing,Dress,49,17471.28,64,Female,3,10785.32,6685.96
+25-05-2022,East,Books,Non-Fiction,1,58.0,34,Female,1,120.96,-62.96
+05-05-2022,Central,Books,Mystery,9,3848.35,50,Male,4,366.06,3482.29
+27-08-2023,West,Food,Produce,29,3003.7,67,Female,5,5454.1,-2450.4
+03-01-2023,West,Electronics,Smartphone,48,17001.62,67,Male,4,9478.16,7523.46
+24-02-2022,West,Food,Produce,34,16038.24,56,Male,4,4186.97,11851.27
+13-02-2023,Central,Food,Grains,1,237.25,26,Male,5,148.32,88.93
+11-12-2022,North,Books,Non-Fiction,39,3116.14,29,Female,1,2359.98,756.16
+11-05-2023,North,Clothing,Sweater,7,828.68,18,Female,3,946.02,-117.34
+31-10-2023,North,Electronics,Headphones,45,13493.16,53,Male,5,7580.81,5912.35
+15-04-2022,North,Food,Produce,11,4538.43,32,Male,3,1809.47,2728.96
+06-02-2023,Central,Clothing,Jeans,27,12880.26,58,Male,5,4183.89,8696.37
+12-11-2022,East,Clothing,T-Shirt,33,12804.71,68,Female,2,3415.83,9388.88
+15-02-2023,Central,Electronics,Tablet,37,11870.68,21,Male,2,1357.52,10513.16
+15-01-2022,East,Clothing,Sweater,41,16697.86,39,Male,5,3471.48,13226.38
+08-11-2022,North,Books,Non-Fiction,32,12716.96,49,Female,3,6576.09,6140.87
+17-10-2023,Central,Clothing,Jeans,50,8424.09,65,Male,5,9688.82,-1264.73
+15-03-2023,East,Clothing,T-Shirt,50,18616.48,68,Female,1,763.99,17852.49
+22-12-2023,South,Electronics,Headphones,23,2380.92,42,Male,4,3413.75,-1032.83
+24-08-2022,South,Food,Snacks,6,838.25,23,Male,3,668.54,169.71
+10-05-2023,East,Electronics,Smartphone,46,10163.61,25,Female,3,674.58,9489.03
+04-12-2022,East,Electronics,Laptop,37,14640.5,56,Male,2,650.99,13989.51
+05-12-2022,East,Clothing,Sweater,28,8062.7,56,Male,5,2513.64,5549.06
+24-06-2022,Central,Home Goods,Lamp,4,916.38,28,Male,5,893.69,22.69
+10-09-2022,Central,Electronics,Laptop,48,16533.09,66,Male,5,9902.07,6631.02
+25-04-2023,East,Electronics,Headphones,29,8745.22,61,Male,1,6049.52,2695.7
+17-01-2022,North,Clothing,T-Shirt,31,13260.85,45,Female,3,7589.66,5671.19
+06-11-2022,West,Electronics,Headphones,31,12957.12,37,Male,2,4378.65,8578.47
+14-04-2023,West,Home Goods,Chair,6,2036.86,21,Male,5,1251.36,785.5
+18-10-2023,South,Electronics,Headphones,35,13564.36,55,Female,1,5206.94,8357.42
+15-06-2022,Central,Electronics,Laptop,8,3788.2,48,Female,2,1180.99,2607.21
+19-11-2022,Central,Home Goods,Rug,23,8435.67,31,Female,5,3834.35,4601.32
+24-01-2023,North,Clothing,Sweater,47,14152.35,52,Female,1,10568.13,3584.22
+31-10-2023,Central,Clothing,Sweater,20,4672.44,41,Female,1,3902.08,770.36
+23-03-2022,West,Books,Sci-Fi,3,209.72,52,Male,3,350.38,-140.66
+12-10-2022,Central,Food,Beverages,50,10342.56,26,Female,4,7029.18,3313.38
+09-02-2022,North,Electronics,Tablet,25,10630.78,67,Female,3,1285.34,9345.44
+03-03-2022,East,Books,Sci-Fi,26,8635.42,26,Female,4,5972.97,2662.45
+23-11-2023,West,Home Goods,Rug,22,6690.67,66,Male,4,1808.93,4881.74
+11-09-2023,South,Books,Fiction,21,502.68,58,Female,1,3893.2,-3390.52
+04-01-2023,West,Electronics,Headphones,49,22687.12,18,Male,2,1755.17,20931.95
+27-02-2022,Central,Food,Grains,19,9266.41,54,Male,2,3218.8,6047.61
+12-07-2023,North,Food,Produce,41,9528.52,50,Female,3,2709.71,6818.81
+11-11-2022,East,Electronics,Tablet,3,1135.64,70,Male,4,284.96,850.68
+07-06-2023,East,Books,Non-Fiction,49,11861.21,35,Male,2,7832.78,4028.43
+03-07-2023,North,Home Goods,Table,33,3557.57,68,Male,1,2198.34,1359.23
+27-08-2022,Central,Food,Produce,9,3294.2,64,Male,1,1298.14,1996.06
+18-10-2023,North,Food,Beverages,4,1451.26,69,Female,1,268.72,1182.54
+14-07-2023,West,Books,Fiction,9,2402.13,28,Male,4,1102.45,1299.68
+28-01-2022,South,Books,Sci-Fi,47,22271.31,24,Male,4,9758.34,12512.97
+14-04-2022,North,Books,Mystery,40,15984.63,66,Female,2,9929.29,6055.34
+19-02-2023,North,Books,Sci-Fi,20,8645.9,22,Male,3,4474.5,4171.4
+31-01-2022,South,Electronics,Laptop,18,609.76,37,Female,1,2746.66,-2136.9
+10-07-2022,North,Food,Produce,48,18454.88,30,Female,4,4384.67,14070.21
+21-08-2023,North,Electronics,Laptop,15,3153.43,36,Male,2,3433.46,-280.03
+14-03-2022,East,Books,Non-Fiction,46,11280.76,27,Female,5,7734.22,3546.54
+28-03-2023,South,Electronics,Tablet,43,2894.24,33,Male,5,5478.36,-2584.12
+18-03-2022,South,Home Goods,Rug,32,2986.36,65,Female,1,784.48,2201.88
+17-08-2023,North,Food,Produce,12,5278.83,33,Female,4,2897.28,2381.55
+01-11-2023,East,Electronics,Smartphone,49,12558.43,26,Male,2,7293.51,5264.92
+09-04-2023,Central,Books,Fiction,35,3511.5,51,Female,5,398.52,3112.98
+08-03-2023,South,Food,Produce,22,1300.31,44,Male,2,2067.51,-767.2
+11-09-2023,Central,Clothing,Jeans,43,10203.01,56,Male,1,10636.64,-433.63
+08-12-2022,East,Home Goods,Lamp,21,9472.16,23,Male,2,892.63,8579.53
+05-06-2023,East,Food,Produce,23,1690.93,40,Female,2,787.28,903.65
+21-04-2023,South,Home Goods,Table,26,2351.42,59,Female,5,1395.9,955.52
+21-06-2023,North,Home Goods,Table,47,10218.36,67,Female,4,11740.58,-1522.22
+18-03-2023,West,Electronics,Smartphone,36,13717.5,54,Male,4,7014.74,6702.76
+03-02-2022,South,Clothing,T-Shirt,26,7040.83,31,Female,4,1547.08,5493.75
+09-04-2022,Central,Electronics,Smartphone,17,1227.66,69,Female,1,2899.13,-1671.47
+15-06-2023,Central,Food,Snacks,22,5123.91,60,Female,4,3126.56,1997.35
+23-04-2023,West,Books,Sci-Fi,44,4967.92,34,Male,2,5834.46,-866.54
+28-05-2023,East,Books,Non-Fiction,31,14582.35,45,Female,3,832.68,13749.67
+02-09-2023,East,Food,Beverages,42,16144.75,22,Female,2,3155.08,12989.67
+07-03-2022,North,Food,Beverages,48,16227.88,59,Male,4,8999.23,7228.65
+30-04-2023,Central,Home Goods,Lamp,50,18531.94,40,Male,3,10529.39,8002.55
+22-02-2022,South,Home Goods,Rug,2,289.76,68,Female,1,236.38,53.38
+07-03-2023,South,Electronics,Laptop,24,3500.77,54,Female,3,1485.09,2015.68
+18-07-2023,Central,Food,Snacks,30,11838.27,51,Male,5,3283.25,8555.02
+11-03-2023,West,Electronics,Smartphone,37,10984.7,57,Male,5,3288.73,7695.97
+24-08-2022,South,Food,Produce,5,2127.59,44,Male,4,668.81,1458.78
+25-02-2022,West,Clothing,T-Shirt,18,4859.24,43,Female,1,3775.51,1083.73
+06-06-2023,East,Electronics,Laptop,21,8031.07,24,Male,5,4080.54,3950.53
+17-10-2023,North,Home Goods,Lamp,50,18721.56,57,Female,1,5150.8,13570.76
+21-05-2022,South,Food,Snacks,26,3457.66,55,Female,2,3629.35,-171.69
+29-08-2022,East,Food,Snacks,50,2705.41,41,Female,4,8924.89,-6219.48
+05-04-2023,West,Home Goods,Lamp,17,361.63,42,Male,3,801.0,-439.37
+02-09-2023,West,Electronics,Tablet,31,799.14,55,Female,2,2445.53,-1646.39
+22-07-2022,West,Home Goods,Table,47,8911.3,51,Female,4,2659.1,6252.2
+08-06-2023,North,Clothing,Dress,48,12174.62,36,Female,2,11009.71,1164.91
+23-12-2023,East,Food,Beverages,23,7173.66,22,Male,4,3691.26,3482.4
+19-12-2023,South,Books,Sci-Fi,36,3054.92,49,Male,5,1229.96,1824.96
+15-05-2022,East,Electronics,Smartphone,4,1811.89,28,Male,3,491.22,1320.67
+09-06-2022,North,Home Goods,Rug,40,14788.91,54,Female,5,4741.84,10047.07
+19-10-2023,South,Books,Sci-Fi,30,4863.89,68,Male,1,7462.81,-2598.92
+20-04-2023,South,Electronics,Tablet,7,138.48,63,Male,1,966.54,-828.06
+11-09-2022,East,Home Goods,Chair,3,721.01,48,Female,2,229.03,491.98
+06-06-2022,West,Clothing,Sweater,40,3910.25,38,Female,1,5235.21,-1324.96
+22-01-2022,South,Books,Mystery,23,6697.08,22,Female,2,2214.31,4482.77
+07-03-2022,West,Electronics,Tablet,25,10356.08,57,Female,2,1793.65,8562.43
+26-08-2023,West,Clothing,Dress,39,5627.53,25,Female,2,768.93,4858.6
+07-09-2023,West,Food,Snacks,31,3498.41,33,Male,4,3798.96,-300.55
+02-06-2022,Central,Clothing,Jeans,47,4267.21,60,Female,2,10256.59,-5989.38
+23-05-2023,South,Home Goods,Lamp,30,14753.36,20,Female,3,4201.89,10551.47
+21-02-2023,Central,Books,Fiction,42,19058.66,45,Female,2,265.3,18793.36
+19-04-2022,East,Clothing,Sweater,31,13350.77,62,Female,3,3375.31,9975.46
+12-05-2023,East,Clothing,T-Shirt,16,4442.44,67,Female,5,1792.94,2649.5
+22-02-2022,North,Food,Beverages,49,23633.39,47,Female,1,2516.1,21117.29
+10-11-2023,West,Home Goods,Table,2,82.07,42,Female,3,473.59,-391.52
+26-11-2022,West,Food,Snacks,27,7702.07,63,Female,4,3624.0,4078.07
+30-04-2022,West,Books,Mystery,4,1268.65,55,Female,1,985.95,282.7
+26-07-2023,Central,Electronics,Headphones,23,5752.08,33,Male,1,5169.25,582.83
+27-09-2023,West,Food,Snacks,20,6549.89,35,Female,3,3335.03,3214.86
+04-06-2022,North,Electronics,Laptop,28,10397.34,37,Female,5,5807.82,4589.52
+06-04-2022,North,Electronics,Smartphone,28,11714.86,64,Female,2,4487.06,7227.8
+14-10-2022,North,Electronics,Headphones,18,7868.81,67,Female,5,4352.15,3516.66
+25-02-2023,West,Books,Non-Fiction,19,7308.82,49,Male,4,4636.97,2671.85
+13-11-2022,South,Food,Snacks,5,2489.72,63,Female,3,994.17,1495.55
+09-12-2022,West,Electronics,Tablet,33,11721.75,45,Male,4,3380.36,8341.39
+04-11-2022,East,Food,Beverages,20,7175.33,28,Male,2,1863.28,5312.05
+07-08-2022,Central,Books,Sci-Fi,1,111.56,29,Female,2,63.34,48.22
+16-11-2022,West,Electronics,Smartphone,38,15792.22,65,Male,4,6138.79,9653.43
+22-08-2023,Central,Books,Mystery,43,9805.51,29,Female,2,4372.26,5433.25
+22-02-2023,West,Books,Sci-Fi,5,1089.02,70,Male,5,1249.11,-160.09
+16-01-2022,East,Home Goods,Chair,25,5042.28,38,Female,1,5420.93,-378.65
+31-08-2023,East,Electronics,Tablet,23,6883.35,62,Female,3,5510.43,1372.92
+11-04-2022,West,Food,Snacks,5,1173.34,61,Female,5,306.41,866.93
+10-06-2022,North,Food,Produce,2,510.51,19,Female,2,487.66,22.85
+05-10-2023,West,Food,Produce,33,15609.57,31,Male,4,4223.3,11386.27
+09-06-2023,West,Home Goods,Rug,49,11717.47,53,Male,5,7450.45,4267.02
+28-09-2022,West,Electronics,Laptop,20,5477.62,62,Male,1,1564.07,3913.55
+16-12-2022,South,Home Goods,Rug,20,7006.51,42,Male,1,1385.56,5620.95
+05-10-2023,South,Electronics,Laptop,31,7045.2,60,Male,2,5083.8,1961.4
+04-10-2022,South,Electronics,Laptop,32,14350.41,41,Female,3,1928.95,12421.46
+05-06-2023,Central,Clothing,Dress,7,1359.3,69,Female,4,1462.27,-102.97
+22-01-2022,East,Clothing,Dress,10,4114.22,34,Female,3,863.24,3250.98
+20-04-2023,East,Electronics,Tablet,32,15402.72,62,Female,5,3272.23,12130.49
+09-06-2023,Central,Food,Beverages,37,824.54,33,Male,3,8656.78,-7832.24
+06-07-2022,South,Home Goods,Chair,11,5087.4,55,Male,4,368.14,4719.26
+30-01-2022,East,Home Goods,Table,34,7974.36,49,Female,5,2404.78,5569.58
+06-10-2022,East,Books,Fiction,34,7516.37,37,Female,2,2204.74,5311.63
+01-07-2022,Central,Food,Produce,2,454.83,49,Male,1,82.76,372.07
+15-04-2022,East,Home Goods,Chair,37,12987.09,65,Male,1,8394.84,4592.25
+16-11-2022,East,Books,Sci-Fi,37,17920.83,70,Male,3,6236.66,11684.17
+25-05-2022,West,Books,Mystery,42,12225.24,26,Female,1,7869.39,4355.85
+20-03-2022,South,Clothing,Dress,30,6117.88,49,Female,5,3612.15,2505.73
+27-02-2022,South,Food,Produce,16,3125.23,51,Male,3,2414.69,710.54
+22-12-2022,Central,Books,Non-Fiction,28,6188.69,67,Male,4,1222.9,4965.79
+13-04-2023,South,Food,Produce,32,2850.4,60,Female,1,4429.33,-1578.93
+27-03-2023,West,Books,Non-Fiction,20,531.72,69,Male,4,911.58,-379.86
+29-06-2023,South,Clothing,Jeans,3,1032.76,29,Female,4,182.71,850.05
+30-03-2022,North,Books,Mystery,32,11367.02,30,Male,5,7586.18,3780.84
+25-06-2022,West,Clothing,Jeans,40,11784.26,47,Male,1,7292.79,4491.47
+12-02-2023,South,Books,Fiction,21,5966.9,30,Male,4,3965.33,2001.57
+04-12-2023,North,Home Goods,Lamp,15,2410.52,19,Female,4,1688.78,721.74
+20-09-2022,Central,Food,Grains,19,8774.72,68,Male,3,4106.05,4668.67
+01-03-2023,North,Clothing,T-Shirt,32,12943.02,63,Male,1,7525.28,5417.74
+10-11-2022,North,Food,Beverages,48,23632.07,56,Female,2,6568.97,17063.1
+07-04-2022,Central,Books,Non-Fiction,2,358.99,60,Male,5,354.5,4.49
+07-02-2023,West,Electronics,Headphones,28,13776.56,56,Male,4,1737.64,12038.92
+27-12-2023,East,Food,Produce,41,8695.95,61,Male,1,3253.67,5442.28
+13-03-2022,South,Books,Mystery,21,8545.09,25,Female,5,2839.67,5705.42
+24-03-2022,Central,Electronics,Smartphone,15,5853.05,27,Male,2,1504.72,4348.33
+22-09-2022,North,Books,Mystery,14,1663.47,59,Male,2,2838.89,-1175.42
+13-07-2023,Central,Clothing,Jeans,5,1611.85,44,Male,1,618.09,993.76
+27-08-2023,Central,Home Goods,Rug,3,1265.42,69,Female,3,262.62,1002.8
+24-10-2022,North,Home Goods,Table,19,4571.01,39,Female,4,867.14,3703.87
+01-01-2022,North,Home Goods,Rug,39,16799.56,40,Male,1,5654.36,11145.2
+04-04-2022,Central,Food,Produce,5,2276.17,38,Female,1,954.9,1321.27
+14-02-2022,East,Books,Fiction,17,6605.61,50,Male,4,905.45,5700.16
+19-05-2023,West,Food,Snacks,40,13180.49,58,Male,4,1661.44,11519.05
+05-03-2023,West,Home Goods,Chair,46,20641.73,34,Female,5,10354.96,10286.77
+26-02-2022,North,Home Goods,Lamp,8,1414.24,53,Female,2,780.04,634.2
+05-03-2023,Central,Books,Fiction,45,17441.1,63,Male,1,3149.94,14291.16
+13-08-2023,Central,Food,Snacks,15,2848.03,21,Male,5,1832.47,1015.56
+13-07-2022,North,Food,Grains,14,5464.82,41,Male,1,1665.62,3799.2
+12-04-2022,South,Clothing,Jeans,30,13184.63,36,Male,1,4568.04,8616.59
+03-08-2023,East,Home Goods,Chair,18,4005.76,51,Female,1,3064.66,941.1
+26-06-2023,Central,Home Goods,Rug,48,933.79,53,Female,2,1245.89,-312.1
+12-03-2023,North,Electronics,Tablet,36,3427.33,54,Female,1,7811.09,-4383.76
+19-12-2023,Central,Clothing,Jeans,26,4982.35,47,Male,4,1170.18,3812.17
+06-05-2022,West,Food,Produce,22,2061.34,62,Male,1,3391.68,-1330.34
+29-05-2023,Central,Clothing,T-Shirt,16,6691.56,33,Male,2,3770.46,2921.1
+04-09-2022,South,Home Goods,Lamp,8,2000.91,70,Male,1,460.82,1540.09
+08-06-2022,East,Clothing,Sweater,7,2655.51,68,Male,5,1070.64,1584.87
+13-12-2023,South,Clothing,Jeans,14,2802.45,59,Male,4,618.48,2183.97
