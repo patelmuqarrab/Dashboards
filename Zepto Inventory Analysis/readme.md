@@ -5,9 +5,8 @@ This project analyzes Zepto's grocery product data to provide insights on invent
 ---
 
 ## 📸 Dashboard Preview
-
-![Zepto Dashboard 1](/1.png)
-![Zepto Dashboard 2](/2.png) 
+![Zepto Dashboard 1](https://github.com/patelmuqarrab/Dashboards/blob/main/Zepto%20Inventory%20Analysis/1.png)
+![Zepto Dashboard 2](https://github.com/patelmuqarrab/Dashboards/blob/main/Zepto%20Inventory%20Analysis/2.png) 
 
 ---
 
