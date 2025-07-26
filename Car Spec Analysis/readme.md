@@ -1,6 +1,6 @@
 # 🚗 Car Specs Analytics Dashboard
 
-![Dashboard Preview Placeholder](`1.png`) 
+[Dashboard Preview](1.png)
 
 ## 📊 Project Summary
 
@@ -64,9 +64,9 @@ The cleaned and enriched dataset was finally visualized using **Power BI**, wher
 
 | File | Description |
 |------|-------------|
-| `Cars.csv` | 🚧 *[Placeholder]* Cleaned dataset |
+| [`Cars.csv`](Cars.csv)| Cleaned dataset |
 | [`CarSpecDashboard.sql`](CarSpecDashboard.sql) | SQL queries for data analysis |
-| `Car Spec Intelligence Dashboard.pbix` | 🚧 *[Placeholder]* Power BI dashboard file |
+| [`Car Spec Intelligence Dashboard.pbix`](Car Spec Intelligence Dashboard.pbix) | Power BI dashboard file |
 | `1.png`, `2.png` | Screenshots of dashboard visualizations |
 
 ---
