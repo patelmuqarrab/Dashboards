@@ -66,7 +66,7 @@ The cleaned and enriched dataset was finally visualized using **Power BI**, wher
 |------|-------------|
 | [`Cars.csv`](Cars.csv)| Cleaned dataset |
 | [`CarSpecDashboard.sql`](CarSpecDashboard.sql) | SQL queries for data analysis |
-| [`Car Spec Intelligence Dashboard.pbix`](Car Spec Intelligence Dashboard.pbix) | Power BI dashboard file |
+| `Car Spec Intelligence Dashboard.pbix` | Power BI dashboard file |
 | `1.png`, `2.png` | Screenshots of dashboard visualizations |
 
 ---
