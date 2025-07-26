@@ -1,0 +1,173 @@
+USE TEMPDB;
+
+CREATE TABLE CARS (
+	ID INT PRIMARY KEY auto_increment,
+    BRAND VARCHAR(75) NOT NULL,
+    MODEL VARCHAR(120) NOT NULL,
+    ENGINES VARCHAR(75),
+    CC_BATTERY_CAPACITY VARCHAR(50),
+    FUEL_TYPE VARCHAR(75),
+    SPEED_KMPH INT,
+    TORQUE_NM INT,
+    HP INT,
+    PERFORMANCE_SEC DECIMAL,
+    SEATS VARCHAR(10),
+    PRICE$ INT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP, 
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+
+-- View first 10 rows
+SELECT * FROM CARS LIMIT 10;
+
+-- Check total records
+SELECT COUNT(*) AS TOTAL_RECORDS FROM CARS;
+
+-- Inspect table structure
+DESCRIBE cars;
+
+-- Unique car Brands
+SELECT DISTINCT BRAND FROM CARS;
+
+-- Cars per company (sorted high to low)
+SELECT 
+	BRAND, COUNT(*) AS CAR_COUNT
+FROM CARS
+GROUP BY BRAND
+ORDER BY CAR_COUNT DESC;
+
+-- Unique engine types
+SELECT DISTINCT ENGINES FROM CARS;
+
+-- Average performance (0-100 km/h) by Brand
+SELECT 
+	BRAND,AVG(PERFORMANCE_SEC) AS AVG_PERFORMANCE
+FROM CARS
+GROUP BY BRAND
+ORDER BY AVG_PERFORMANCE;
+
+-- Min/Max horsepower
+SELECT 
+	MIN(HP) AS MIN_HP, MAX(HP) AS MAX_HP
+FROM CARS;
+
+-- Highest/lowest priced cars (with cleaned prices)
+-- Top 5 most expensive
+SELECT 
+	BRAND, MODEL, PRICE$
+FROM CARS
+ORDER BY PRICE$ desc
+LIMIT 5;
+
+-- Top 5 least expensive
+SELECT 
+	BRAND, MODEL, PRICE$
+    FROM CARS
+ORDER BY PRICE$ ASC
+LIMIT 5;
+
+-- Fuel type distribution
+SELECT 
+	FUEL_TYPE, COUNT(*) AS TYPE_COUNT
+FROM CARS
+GROUP BY FUEL_TYPE;
+
+-- Engine capacity analysis
+SELECT
+	ENGINES, AVG(CAST(REPLACE(REPLACE(CC_Battery_Capacity, ' cc', ''), ',', '') AS UNSIGNED)) AS avg_cc
+FROM CARS
+GROUP BY ENGINES;
+	
+-- Cars exceeding 300 km/h
+SELECT 
+	BRAND, MODEL, SPEED_KMPH
+FROM CARS
+WHERE SPEED_KMPH > 300
+ORDER BY SPEED_KMPH DESC;
+
+-- Seat configuration analysis
+SELECT 
+	SEATS, COUNT(*) AS SEAT_CONFIGURATION_COUNT
+FROM CARS
+GROUP BY SEATS
+ORDER BY SEAT_CONFIGURATION_COUNT DESC;
+
+-- Torque vs. Horsepower
+SELECT 
+	MODEL, TORQUE_NM, HP,ROUND(TORQUE_NM/HP,2) AS TORQUE_2_HP_RATIO
+FROM CARS
+ORDER BY TORQUE_2_HP_RATIO DESC;
+
+-- Acceleration class
+SELECT 
+	BRAND, MODEL, PERFORMANCE_SEC,
+    CASE 
+        WHEN PERFORMANCE_SEC <= 3.0 THEN 'Hypercar'
+        WHEN PERFORMANCE_SEC BETWEEN 3.1 AND 4.0 THEN 'Sports'
+        ELSE 'Standard'
+    END AS acceleration_class
+FROM CARS;
+
+-- Top 5 most expensive cars
+SELECT
+	BRAND,
+    MODEL,
+    CONCAT('$',PRICE$) AS PRICE
+FROM CARS
+ORDER BY PRICE$ DESC
+LIMIT 5;
+
+-- Average price by manufacturer
+SELECT
+	BRAND,
+    CONCAT('$', ROUND(AVG(PRICE$),2)) AS AVG_PRICE
+FROM CARS
+GROUP BY BRAND
+ORDER BY AVG_PRICE DESC;
+
+-- Horsepower vs. Acceleration correlation
+SELECT
+	BRAND, MODEL, HP, PERFORMANCE_SEC, ROUND(HP/PERFORMANCE_SEC,1) AS HP_PER_SEC
+FROM CARS
+ORDER BY HP_PER_SEC DESC;
+
+-- Average horsepower by engine type
+SELECT 
+    ENGINES,
+    FORMAT(AVG(HP), 0) AS Avg_HP
+FROM CARS
+GROUP BY Engines
+ORDER BY Avg_HP DESC;
+
+-- Performance per dollar (higher = better value)
+SELECT 
+    BRAND,
+    MODEL,
+    HP,
+    PRICE$,
+    ROUND(HP / (CAST(PRICE$ AS UNSIGNED) / 1000), 3) AS HP_per_1k_Dollar
+FROM cars
+ORDER BY HP_per_1k_Dollar DESC
+LIMIT 10;
+
+-- Performance by fuel type
+SELECT 
+    FUEL_TYPE,
+    ROUND(AVG(PERFORMANCE_SEC), 2) AS AVG_PERFORMANCE,
+    FORMAT(AVG(HP), 0) AS AVG_HP,
+    CONCAT('$', FORMAT(AVG(CAST(PRICE$ AS UNSIGNED)), 0)) AS AVG_PRICE
+FROM CARS
+GROUP BY FUEL_TYPE;
+
+-- Top speed achievers
+SELECT 
+    BRAND,
+    MODEL,
+    SPEED_KMPH AS TOP_SPEED_KMPH,
+    HP,
+    ROUND(SPEED_KMPH / HP * 1000, 2) AS Speed_per_HP
+FROM CARS
+ORDER BY SPEED_KMPH DESC
+LIMIT 5;
+
+
