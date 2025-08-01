@@ -1,6 +1,6 @@
 # 📞 Call Center Performance Dashboard
 
-![Dashboard]([assets/callCenter.png](https://github.com/patelmuqarrab/Dashboards/blob/main/Call%20Center%20Dashboard/frame.png))
+![Dashboard]((https://github.com/patelmuqarrab/Dashboards/blob/main/Call%20Center%20Dashboard/frame.png))
 
 This project is a comprehensive **Call Center Performance Dashboard** built using **Power BI**. It provides detailed visual insights into call center metrics such as call volume, channel effectiveness, and agent performance. The dashboard is powered by a synthetic dataset that simulates realistic call center operations.
 
@@ -104,3 +104,4 @@ The dataset contains:
 4. Customize or expand the dashboard as required.
    
 ---
+
