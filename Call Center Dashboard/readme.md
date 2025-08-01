@@ -1,6 +1,6 @@
 # 📞 Call Center Performance Dashboard
 
-![Dashboard Banner](assets/callCenter.png)
+![Dashboard]([assets/callCenter.png](https://github.com/patelmuqarrab/Dashboards/blob/main/Call%20Center%20Dashboard/frame.png))
 
 This project is a comprehensive **Call Center Performance Dashboard** built using **Power BI**. It provides detailed visual insights into call center metrics such as call volume, channel effectiveness, and agent performance. The dashboard is powered by a synthetic dataset that simulates realistic call center operations.
 
@@ -63,15 +63,19 @@ The goal of this project is to develop an interactive Power BI dashboard to help
 
 ## 🧪 Dataset
 
-The dataset simulates real-world call center operations including:
+The dataset contains:
 
-- Call timestamps and durations
-- Communication channels (Phone, Email, Chat, Social Media)
-- Customer satisfaction scores
-- Agent and department details
-- Resolution status and wait times
+- ID
+- CALL CENTER LOCATION
+- DATE OF CALL
+- REASON OF CALL
+- CLIENT CALL
+- CALL SENTIMENT
+- CALL DURATION(MIN)
+- CSAT SCORE
+- CHANNEL(CALL CENTER, CHAT BOT, WEBSITE, EMAIL)
 
-> The dataset was generated using `call_center_data_generation.py` and stored in `call_center_data.csx`.
+> The dataset was generated using `call_center_data_generation.py` and stored in `call_center_data.csv`.
 
 ---
 
@@ -79,7 +83,7 @@ The dataset simulates real-world call center operations including:
 
 - **Power BI**: For data visualization and interactive dashboard creation  
 - **Python**: To generate synthetic call center data  
-- **Pandas, Faker**: Used in the data generation process  
+- **Pandas**: Used in the data generation process  
 - **DAX**: For custom measures and calculated columns in Power BI  
 
 ---
@@ -88,7 +92,7 @@ The dataset simulates real-world call center operations including:
 
 | Overview | Channel Effectiveness | Agent & Details |
 |---------|------------------------|-----------------|
-| ![Overview](dashboard_views/Overview.png) | ![Channel](dashboard_views/Channel%20Effectiveness.png) | ![Details](dashboard_views/Details.png) |
+| ![Overview](https://github.com/patelmuqarrab/Dashboards/blob/main/Call%20Center%20Dashboard/Overview.png) | ![Channel](https://github.com/patelmuqarrab/Dashboards/blob/main/Call%20Center%20Dashboard/Channel%20Effectiveness.png) | ![Details](https://github.com/patelmuqarrab/Dashboards/blob/main/Call%20Center%20Dashboard/Details.png) |
 
 ---
 
@@ -96,34 +100,7 @@ The dataset simulates real-world call center operations including:
 
 1. Clone or download this repository.
 2. Open `callCenter.pbix` in Power BI Desktop.
-3. Replace or update data source if needed (`call_center_data.csx`).
+3. Replace or update data source if needed (`call_center_data.csv`).
 4. Customize or expand the dashboard as required.
-
+   
 ---
-
-## 🔗 LinkedIn Post Template
-
-> Just wrapped up a Power BI dashboard project on Call Center Performance! 🧠📊  
-> Built using Python-generated synthetic data and Power BI visuals, this project offers insights into customer interactions, agent performance, and channel effectiveness.  
->  
-> 👉 [GitHub Repository](#)  
->  
-> #PowerBI #DataAnalytics #DashboardDesign #CustomerService #Python #DataVisualization
-
----
-
-## 📌 Future Improvements
-
-- Integrate real-time API-based data
-- Add drill-through pages by team or department
-- Include forecasting using Power BI's AI capabilities
-
----
-
-## 📬 Contact
-
-If you have questions or want to collaborate, feel free to reach out via [LinkedIn](#) or open an issue.
-
----
-
-
