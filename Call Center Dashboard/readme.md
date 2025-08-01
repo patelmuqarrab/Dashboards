@@ -44,16 +44,19 @@ The goal of this project is to develop an interactive Power BI dashboard to help
 │ ├── grid.png
 │ └── table.png
 │
+
 ├── 📁 dashboard_backgrounds/ # Dashboard background images
 │ ├── 1.png
 │ ├── 2.png
 │ └── 3.png
 │
+
 ├── 📁 dashboard_views/ # Final dashboard images
 │ ├── Overview.png
 │ ├── Channel Effectiveness.png
 │ └── Details.png
 │
+
 ├── 📁 data/
 │ ├── call_center_data.csx # Synthetic dataset (CSV format)
 │ └── call_center_data_generation.py # Python script used to generate data
@@ -104,5 +107,6 @@ The dataset contains:
 4. Customize or expand the dashboard as required.
    
 ---
+
 
 
