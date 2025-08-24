@@ -65,10 +65,10 @@ This project is part of the **Onyx Data August 2025 Challenge**.
 
 | Dashboard | Screenshot |  
 |-----------|------------|  
-| Overview | ![Overview](OverviewPic.png) |  
-| Map | ![Map](MapPic.png) |  
-| Health Analyzer | ![Calculator](CalculatorPic.png) |  
 | Home | ![Home](HomePic.png) |  
+| Overview | ![Overview](OverviewPic.png) |  
+| Health Analyzer | ![Calculator](CalculatorPic.png) |  
+| Map | ![Map](MapPic.png) |  
 
 ---
 
